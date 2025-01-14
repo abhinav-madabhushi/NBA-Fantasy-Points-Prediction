@@ -1,0 +1,112 @@
+,games_played,player_id,season,min,fgm,fga,fg3m,fg3a,ftm,fta,oreb,dreb,reb,ast,stl,blk,turnover,pf,pts,fg_pct,fg3_pct,ft_pct,first_name,last_name,position,height_feet,height_inches,weight_pounds,team_id,team_abbreviation,team_city,team_conference,team_division,team_full_name,team_name
+0,63,46397639,1963,18:16,2.317,5.81,0,0,0.889,1.0,0,0,2.921,1.365,0,0,0,1.905,5.524,0.399,0,0.889,Mike,Farmer,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+1,21,46396616,1963,25:02,3.333,8.619,0,0,2.048,3.429,0,0,3.476,2.476,0,0,0,2.667,8.714,0.387,0,0.597,Si,Green,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+2,11,46398147,1963,19:43,3.091,8.909,0,0,3.727,4.636,0,0,5.909,0.636,0,0,0,3.364,9.909,0.347,0,0.804,Dave,Gambee,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+3,6,46401242,1963,13:50,1.5,4.333,0,0,2.333,3.5,0,0,4.0,0.5,0,0,0,2.833,5.333,0.346,0,0.667,Jerry,Greenspan,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+4,18,46397630,1963,40:06,8.667,18.667,0,0,5.667,6.889,0,0,6.611,3.611,0,0,0,3.444,23.0,0.464,0,0.823,Hal,Greer,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+5,24,46399187,1963,24:47,2.417,6.375,0,0,3.0,3.25,0,0,4.458,2.583,0,0,0,2.708,7.208,0.379,0,0.923,Donnie,Butcher,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+6,22,46398149,1963,25:05,4.636,11.455,0,0,2.182,4.773,0,0,8.545,2.045,0,0,0,2.682,11.455,0.405,0,0.457,Johnny,Green,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+7,16,46400211,1963,11:52,1.813,4.688,0,0,0.625,1.125,0,0,0.938,1.563,0,0,0,0.688,4.25,0.387,0,0.556,Bob,Duffy,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+8,12,46400743,1963,9:35,1.417,4.25,0,0,0.75,1.167,0,0,1.333,1.5,0,0,0,2.167,3.583,0.333,0,0.643,Jay,Arnette,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+9,69,46398676,1963,26:40,4.043,8.928,0,0,2.638,3.971,0,0,3.261,2.855,0,0,0,3.536,10.725,0.453,0,0.664,Alvin,Attles,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+10,27,46398158,1963,35:31,6.556,14.556,0,0,4.63,6.111,0,0,3.481,2.704,0,0,0,2.519,17.741,0.45,0,0.758,Dick,Barnett,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+11,62,46400203,1963,18:39,2.823,6.871,0,0,0.952,1.597,0,0,2.016,1.919,0,0,0,1.484,6.597,0.411,0,0.596,John,Barnhill,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+12,29,46397632,1963,40:45,9.552,21.207,0,0,5.966,7.172,0,0,11.793,4.414,0,0,0,2.931,25.069,0.45,0,0.832,Elgin,Baylor,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+13,48,46400212,1963,31:06,4.521,10.625,0,0,3.396,4.583,0,0,10.188,1.146,0,0,0,4.354,12.438,0.425,0,0.741,Zelmo,Beaty,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+14,24,46399185,1963,42:12,9.583,19.667,0,0,6.75,10.167,0,0,15.583,1.667,0,0,0,3.833,25.917,0.487,0,0.664,Walt,Bellamy,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+15,17,46396109,1963,16:21,2.941,6.941,0,0,1.118,1.471,0,0,1.588,1.471,0,0,0,2.412,7.0,0.424,0,0.76,Al,Bianchi,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+16,22,46397637,1963,23:27,3.318,7.091,0,0,1.409,2.045,0,0,3.091,2.091,0,0,0,2.682,8.045,0.468,0,0.689,Arlen,Bockhorn,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+17,26,46398665,1963,26:34,5.077,12.269,0,0,2.885,3.846,0,0,6.269,0.885,0,0,0,2.5,13.038,0.414,0,0.75,Bob,Boozer,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+18,64,46396114,1963,29:32,4.375,10.641,0,0,4.359,5.188,0,0,2.969,4.063,0,0,0,3.469,13.109,0.411,0,0.84,Richie,Guerin,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+19,64,46396101,1963,29:31,7.344,16.375,0,0,3.453,4.219,0,0,5.078,2.281,0,0,0,3.469,18.141,0.448,0,0.819,Cliff,Hagan,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+20,13,46400736,1963,25:36,4.077,11.923,0,0,1.308,2.154,0,0,8.385,0.923,0,0,0,3.308,9.462,0.342,0,0.607,Reggie,Harding,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+21,20,46400214,1963,10:48,2.25,4.75,0,0,1.3,2.05,0,0,3.7,0.55,0,0,0,1.85,5.8,0.474,0,0.634,Charlie,Hardnett,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+22,1,46401245,1963,24:00,4.0,9.0,0,0,1.0,1.0,0,0,1.0,1.0,0,0,0,2.0,9.0,0.444,0,1.0,Jerry,Harkness,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+23,22,46398154,1963,20:24,3.955,9.136,0,0,1.909,2.818,0,0,5.364,1.409,0,0,0,2.409,9.818,0.433,0,0.677,Bob,Ferry,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+24,50,46400205,1963,32:22,7.96,18.48,0,0,3.68,5.0,0,0,5.2,2.88,0,0,0,3.02,19.6,0.431,0,0.736,John,Havlicek,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25,24,46398151,1963,23:12,2.75,6.792,0,0,1.375,2.458,0,0,5.25,0.583,0,0,0,2.458,6.875,0.405,0,0.559,Tom,Hawkins,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+26,21,46400741,1963,25:45,5.095,11.857,0,0,2.857,4.524,0,0,4.143,2.476,0,0,0,2.286,13.048,0.43,0,0.632,Art,Heyman,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+27,78,46400219,1963,32:00,4.91,12.833,0,0,3.269,4.115,0,0,7.038,1.654,0,0,0,3.423,13.09,0.383,0,0.794,Wayne,Hightower,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+28,66,46400730,1963,15:04,2.136,5.712,0,0,0.803,1.152,0,0,1.697,1.561,0,0,0,2.424,5.076,0.374,0,0.697,Gary,Hill,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+29,4,46400226,1963,13:45,1.0,2.25,0,0,0.0,0.25,0,0,1.5,0.25,0,0,0,2.5,2.0,0.444,0,0.0,Paul,Hogue,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+30,17,46400742,1963,19:03,1.824,4.706,0,0,1.588,2.471,0,0,5.647,1.118,0,0,0,3.412,5.235,0.388,0,0.643,Tom,Hoover,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+31,23,46398153,1963,34:36,6.652,15.0,0,0,5.783,7.783,0,0,9.957,2.87,0,0,0,3.957,19.087,0.443,0,0.743,Bailey,Howell,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+32,19,46398666,1963,13:18,1.526,3.895,0,0,1.158,1.895,0,0,4.842,0.684,0,0,0,2.526,4.211,0.392,0,0.611,Darrall,Imhoff,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+33,3,46400200,1963,19:40,3.0,8.0,0,0,0.333,1.0,0,0,7.0,3.333,0,0,0,3.333,6.333,0.375,0,0.333,Dave,DeBusschere,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+34,23,46400733,1963,34:36,7.043,16.174,0,0,2.609,3.826,0,0,11.609,2.391,0,0,0,3.783,16.696,0.435,0,0.682,Gus,Johnson,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+35,50,46397638,1963,29:06,3.66,8.58,0,0,1.08,2.08,0,0,4.6,5.36,0,0,0,3.16,8.4,0.427,0,0.519,K.C.,Jones,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+36,49,46397116,1963,31:29,8.367,17.531,0,0,3.367,4.571,0,0,4.592,2.429,0,0,0,2.551,20.102,0.477,0,0.737,Sam,Jones,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+37,21,46398677,1963,20:54,3.381,8.952,0,0,1.238,1.762,0,0,3.81,2.333,0,0,0,2.476,8.0,0.378,0,0.703,Willie,Jones,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+38,18,46395059,1963,35:43,6.667,16.0,0,0,2.889,4.111,0,0,13.333,3.278,0,0,0,2.556,16.222,0.417,0,0.703,Johnny,Kerr,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+39,20,46400740,1963,10:36,1.1,2.3,0,0,0.8,1.2,0,0,1.6,1.1,0,0,0,1.45,3.0,0.478,0,0.667,Jim,King,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+40,22,46400732,1963,16:43,3.182,7.545,0,0,1.182,1.909,0,0,4.727,0.864,0,0,0,1.455,7.545,0.422,0,0.619,Don,Kojis,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+41,23,46397120,1963,18:07,2.609,6.783,0,0,1.348,1.609,0,0,4.217,0.739,0,0,0,3.13,6.565,0.385,0,0.838,Jim,Krebs,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+42,48,46396115,1963,26:41,6.104,15.375,0,0,3.667,4.292,0,0,5.833,2.458,0,0,0,3.479,15.875,0.397,0,0.854,Tom,Heinsohn,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+43,27,46398150,1963,34:40,3.741,9.148,0,0,3.259,4.407,0,0,9.926,1.481,0,0,0,3.667,10.741,0.409,0,0.739,Rudy,LaRusso,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+44,54,46398663,1963,9:36,1.185,3.13,0,0,0.87,1.315,0,0,1.741,0.481,0,0,0,1.241,3.241,0.379,0,0.662,George,Lee,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+45,36,46395589,1963,8:00,1.083,3.25,0,0,0.139,0.361,0,0,2.444,0.583,0,0,0,1.528,2.306,0.333,0,0.385,Jim,Loscutoff,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+46,17,46400213,1963,27:52,3.647,9.588,0,0,2.059,2.882,0,0,2.706,3.118,0,0,0,2.412,9.353,0.38,0,0.714,Kevin,Loughery,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+47,30,46394538,1963,9:44,2.967,6.867,0,0,1.033,1.367,0,0,2.667,0.533,0,0,0,2.1,6.967,0.432,0,0.756,Clyde,Lovellette,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+48,24,46400220,1963,21:45,6.042,11.917,0,0,2.167,2.667,0,0,4.958,1.458,0,0,0,2.292,14.25,0.507,0,0.813,Bill,McGill,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+49,79,46399188,1963,30:18,5.43,11.823,0,0,2.595,3.658,0,0,7.646,1.873,0,0,0,3.62,13.456,0.459,0,0.709,Tom,Meschery,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+50,25,46400744,1963,42:33,6.64,12.8,0,0,4.72,5.92,0,0,16.72,2.72,0,0,0,3.92,18.0,0.519,0,0.797,Jerry,Lucas,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+51,20,46400739,1963,13:54,2.1,6.45,0,0,1.25,1.55,0,0,1.7,0.8,0,0,0,1.65,5.45,0.326,0,0.806,Eddie,Miles,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+52,18,46396107,1963,6:40,0.556,1.333,0,0,0.167,0.5,0,0,1.0,0.667,0,0,0,1.389,1.278,0.417,0,0.333,Johnny,McCarthy,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+53,22,46398679,1963,24:19,3.318,8.182,0,0,2.318,3.045,0,0,4.682,1.273,0,0,0,2.864,8.955,0.406,0,0.761,Jackie,Moreland,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+54,49,46396111,1963,18:40,4.082,9.673,0,0,1.633,2.061,0,0,5.0,0.878,0,0,0,2.776,9.796,0.422,0,0.792,Willie,Naulls,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+55,28,46400216,1963,16:02,1.179,3.25,0,0,1.5,2.107,0,0,2.929,0.357,0,0,0,2.143,3.857,0.363,0,0.712,Don,Nelson,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+56,18,46399192,1963,23:46,2.444,7.222,0,0,1.722,2.111,0,0,3.611,3.611,0,0,0,2.667,6.611,0.338,0,0.816,Paul,Neumann,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+57,11,46399199,1963,12:54,1.455,3.909,0,0,0.182,0.455,0,0,3.727,0.273,0,0,0,2.455,3.091,0.372,0,0.4,Robert,Nordmann,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+58,21,46398672,1963,30:31,5.667,14.333,0,0,3.0,4.333,0,0,2.619,2.524,0,0,0,2.905,14.333,0.395,0,0.692,Don,Ohl,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+59,12,46400202,1963,10:15,2.083,4.417,0,0,0.75,1.167,0,0,3.5,0.833,0,0,0,1.583,4.917,0.472,0,0.643,Enoch,Olsen,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+60,1,46401244,1963,2:00,0.0,0.0,0,0,0.0,0.0,0,0,1.0,0.0,0,0,0,1.0,0.0,0.0,0,0.0,Mel,Peterson,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+61,66,46395052,1963,41:30,9.773,21.106,0,0,7.758,9.788,0,0,14.894,2.894,0,0,0,3.712,27.303,0.463,0,0.793,Bob,Pettit,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+62,68,46399198,1963,29:33,3.735,10.162,0,0,2.162,3.221,0,0,3.618,3.088,0,0,0,3.603,9.647,0.368,0,0.671,Gary,Phillips,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+63,46,46395058,1963,15:57,2.609,7.065,0,0,2.565,3.13,0,0,2.957,1.109,0,0,0,3.283,7.783,0.369,0,0.819,Frank,Ramsey,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+64,17,46397631,1963,7:42,0.412,1.824,0,0,0.294,0.353,0,0,2.294,0.412,0,0,0,1.706,1.118,0.226,0,0.833,Hub,Reed,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+65,60,46398670,1963,44:40,10.633,21.333,0,0,10.3,11.95,0,0,10.0,11.417,0,0,0,3.517,31.567,0.498,0,0.862,Oscar,Robertson,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+66,78,46397643,1963,34:03,4.308,11.577,0,0,2.5,3.538,0,0,4.051,7.013,0,0,0,3.077,11.115,0.372,0,0.707,Guy,Rodgers,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+67,1,46400737,1963,3:00,0.0,1.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0,0.0,0.0,0.0,0,0.0,Ken,Rohloff,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+68,15,46400209,1963,12:28,2.467,5.733,0,0,1.4,2.067,0,0,2.8,0.4,0,0,0,1.467,6.333,0.43,0,0.677,John,Rudometkin,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+69,50,46398668,1963,28:09,4.44,9.9,0,0,2.68,3.48,0,0,8.06,1.3,0,0,0,3.5,11.56,0.448,0,0.77,Thomas,Sanders,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+70,5,46391393,1963,16:36,2.6,7.8,0,0,1.8,2.0,0,0,7.2,1.0,0,0,0,3.6,7.0,0.333,0,0.9,Dolph,Schayes,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+71,23,46399190,1963,37:00,6.043,15.043,0,0,3.696,4.913,0,0,11.609,2.348,0,0,0,3.174,15.783,0.402,0,0.752,Ray,Scott,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+72,51,46395585,1963,10:10,1.039,2.353,0,0,1.255,1.549,0,0,1.804,0.824,0,0,0,1.392,3.333,0.442,0,0.81,Ken,Sears,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+73,12,46399177,1963,24:20,4.583,13.167,0,0,2.167,3.0,0,0,4.917,0.583,0,0,0,2.0,11.333,0.348,0,0.722,Lee,Shaffer,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+74,51,46396110,1963,44:01,6.137,13.588,0,0,3.176,5.686,0,0,25.333,4.588,0,0,0,2.333,15.451,0.452,0,0.559,Bill,Russell,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+75,11,46395060,1963,17:49,1.545,5.091,0,0,0.818,1.364,0,0,2.091,3.545,0,0,0,1.455,3.909,0.304,0,0.6,Gene,Shue,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+76,23,46400734,1963,8:00,1.13,3.304,0,0,1.043,1.304,0,0,1.739,0.957,0,0,0,0.957,3.304,0.342,0,0.8,Larry,Siegfried,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+77,22,46399183,1963,22:24,3.045,7.864,0,0,2.409,3.045,0,0,2.136,2.591,0,0,0,2.545,8.5,0.387,0,0.791,Adrian,Smith,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+78,19,46397649,1963,11:37,1.421,2.947,0,0,0.895,1.211,0,0,3.0,0.368,0,0,0,1.842,3.737,0.482,0,0.739,Larry,Staverman,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+79,1,46401246,1963,4:00,1.0,3.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0,1.0,2.0,0.333,0,0.0,Roger,Strickland,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+80,15,46400745,1963,9:52,1.133,3.467,0,0,0.667,1.067,0,0,2.067,1.133,0,0,0,1.267,2.933,0.327,0,0.625,Tom,Thacker,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+81,21,46400731,1963,33:40,5.762,13.0,0,0,2.905,4.048,0,0,4.286,4.381,0,0,0,2.524,14.429,0.443,0,0.718,Rod,Thorn,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+82,75,46400735,1963,25:42,2.88,7.293,0,0,1.253,2.253,0,0,10.36,1.133,0,0,0,2.4,7.013,0.395,0,0.556,Nate,Thurmond,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+83,40,46400208,1963,13:30,2.075,5.55,0,0,0.425,0.925,0,0,4.625,1.05,0,0,0,2.725,4.575,0.374,0,0.459,Gene,Tormohlen,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+84,23,46395598,1963,27:28,5.696,12.739,0,0,2.478,2.957,0,0,3.87,1.957,0,0,0,3.739,13.87,0.447,0,0.838,Jack,Twyman,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+85,56,46400204,1963,19:52,3.625,8.143,0,0,1.518,2.161,0,0,1.839,1.679,0,0,0,2.571,8.768,0.445,0,0.702,Charles,Vaughn,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+86,18,46400222,1963,37:43,6.278,13.444,0,0,4.333,6.556,0,0,10.333,1.667,0,0,0,2.722,16.889,0.467,0,0.661,Chet,Walker,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+87,21,46400738,1963,6:11,0.762,2.476,0,0,0.476,0.81,0,0,0.905,0.81,0,0,0,1.19,2.0,0.308,0,0.588,Gerry,Ward,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+88,17,46400210,1963,17:56,1.647,4.176,0,0,2.0,2.941,0,0,6.706,1.0,0,0,0,3.059,5.294,0.394,0,0.68,Ben,Warley,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+89,26,46398662,1963,40:11,9.885,20.577,0,0,7.692,9.308,0,0,5.769,4.615,0,0,0,2.538,27.462,0.48,0,0.826,Jerry,West,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+90,6,46400225,1963,5:20,0.333,1.833,0,0,0.167,0.5,0,0,1.0,0.167,0,0,0,0.167,0.833,0.182,0,0.333,Hubie,White,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+91,28,46400221,1963,18:10,1.857,3.321,0,0,0.679,1.0,0,0,6.571,0.321,0,0,0,3.0,4.393,0.559,0,0.679,Gene,Wiley,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+92,63,46398678,1963,31:34,4.254,10.286,0,0,3.175,4.365,0,0,4.317,3.952,0,0,0,3.619,11.683,0.414,0,0.727,Lenny,Wilkens,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+93,24,46395051,1963,17:15,2.083,5.625,0,0,1.625,2.292,0,0,1.708,1.083,0,0,0,1.417,5.792,0.37,0,0.709,Frank,Selvy,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+94,11,46401243,1963,6:10,0.909,2.455,0,0,0.636,0.727,0,0,2.364,0.182,0,0,0,1.182,2.455,0.37,0,0.875,John,Windsor,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+95,4,46400747,1963,11:00,1.0,3.0,0,0,0.25,0.5,0,0,0.25,0.75,0,0,0,1.25,2.25,0.333,0,0.5,Mel,Gibson,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+96,21,46395590,1963,29:34,3.143,8.143,0,0,2.048,2.476,0,0,6.81,3.048,0,0,0,3.286,8.333,0.386,0,0.827,Tom,Gola,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+97,19,46399201,1963,36:18,5.316,13.263,0,0,2.947,3.947,0,0,3.211,5.368,0,0,0,2.474,13.579,0.401,0,0.747,Johnny,Egan,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+98,4,46400746,1963,9:45,0.5,4.25,0,0,0.75,1.25,0,0,2.25,1.5,0,0,0,0.25,1.75,0.118,0,0.6,Larry,Comley,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+99,22,46399196,1963,17:57,3.409,7.227,0,0,1.591,2.273,0,0,2.182,2.545,0,0,0,1.636,8.409,0.472,0,0.7,Al,Butler,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+100,66,46400207,1963,24:07,3.394,8.47,0,0,1.773,2.803,0,0,8.455,2.03,0,0,0,3.121,8.561,0.401,0,0.632,Bill,Bridges,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+101,16,46397633,1963,17:48,2.625,7.5,0,0,1.563,2.563,0,0,6.5,0.813,0,0,0,3.063,6.813,0.35,0,0.61,Connie,Dierking,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+102,23,46400217,1963,37:15,7.348,15.043,0,0,4.696,6.217,0,0,6.87,2.261,0,0,0,3.739,19.391,0.488,0,0.755,Terry,Dischinger,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+103,26,46397640,1963,37:36,6.269,14.808,0,0,2.269,4.192,0,0,10.846,1.577,0,0,0,4.269,14.808,0.423,0,0.541,Wayne,Embry,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+104,13,46395568,1963,22:04,3.154,8.308,0,0,2.923,3.385,0,0,2.308,3.615,0,0,0,2.538,9.231,0.38,0,0.864,Larry,Costello,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+105,15,46394014,1963,15:16,1.8,5.8,0,0,1.2,1.667,0,0,4.4,0.467,0,0,0,2.933,4.8,0.31,0,0.72,Gene,Conley,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+106,20,46397650,1963,18:51,2.05,5.15,0,0,0.45,0.65,0,0,4.45,0.85,0,0,0,2.6,4.55,0.398,0,0.692,Barney,Cable,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+107,80,46398155,1963,46:06,15.05,28.775,0,0,6.75,12.7,0,0,22.375,5.038,0,0,0,2.275,36.85,0.523,0,0.531,Wilt,Chamberlain,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+108,19,46398669,1963,12:25,1.316,2.895,0,0,1.263,1.421,0,0,3.158,0.684,0,0,0,1.316,3.895,0.455,0,0.889,Dave,Budd,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+109,22,46400206,1963,30:13,6.0,13.955,0,0,2.545,3.727,0,0,9.0,0.818,0,0,0,2.773,14.545,0.43,0,0.683,Len,Chappell,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+110,27,46400218,1963,18:51,2.667,6.259,0,0,1.333,2.074,0,0,5.815,0.37,0,0,0,2.111,6.667,0.426,0,0.643,Leroy,Ellis,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers

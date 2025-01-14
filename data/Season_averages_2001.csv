@@ -1,0 +1,441 @@
+,games_played,player_id,season,min,fgm,fga,fg3m,fg3a,ftm,fta,oreb,dreb,reb,ast,stl,blk,turnover,pf,pts,fg_pct,fg3_pct,ft_pct,first_name,last_name,position,height_feet,height_inches,weight_pounds,team_id,team_abbreviation,team_city,team_conference,team_division,team_full_name,team_name
+0,81,971,2001,39:09,8.14,17.3,0.46,1.43,4.43,5.53,3.0,9.11,12.11,5.21,1.19,1.56,2.83,2.27,21.16,0.47,0.319,0.801,Kevin,Garnett,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+1,61,995,2001,10:21,1.1,2.44,0.0,0.0,0.46,0.82,1.21,1.46,2.67,0.36,0.38,0.39,0.56,2.13,2.66,0.45,0.0,0.56,Andrew,DeClercq,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+2,25,1217,2001,5:52,0.52,1.56,0.0,0.0,1.12,1.6,0.48,0.88,1.36,0.12,0.08,0.24,0.4,0.6,2.16,0.333,0.0,0.7,Obinna,Ekezie,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+3,82,1219,2001,21:29,2.62,6.38,0.8,2.17,1.04,1.54,0.95,2.74,3.7,1.35,0.87,0.51,0.8,2.32,7.09,0.411,0.371,0.675,Devean,George,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+4,22,1336,2001,17:22,1.77,4.18,0.32,1.0,1.32,1.68,0.32,0.95,1.27,2.23,0.5,0.14,1.55,1.68,5.18,0.424,0.318,0.784,Eddie,Gill,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+5,78,700,2001,31:20,3.79,7.44,0.0,0.0,1.92,2.72,3.36,5.46,8.82,1.23,0.79,1.06,0.79,2.47,9.51,0.51,0.0,0.708,Dale,Davis,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+6,55,2948,2001,16:05,2.56,6.31,0.82,2.38,0.6,0.67,0.42,1.05,1.47,1.11,0.4,0.11,0.75,0.91,6.55,0.406,0.344,0.892,Dell,Curry,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+7,81,1194,2001,27:01,4.69,9.57,0.0,0.06,1.91,2.84,2.25,5.2,7.44,1.09,0.72,1.51,1.73,3.19,11.3,0.49,0.0,0.674,Keon,Clark,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+8,1,734,2001,5:00,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.25,0.0,0.0,Vinny,Del Negro,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+9,71,94,2001,19:32,2.13,4.28,0.0,0.0,1.89,3.13,1.61,3.23,4.83,0.76,0.39,1.31,1.39,2.52,6.14,0.497,0.0,0.604,Tyson,Chandler,C,7.0,1.0,240.0,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+10,72,1376,2001,15:59,2.63,5.24,0.0,0.0,1.46,2.22,1.54,2.24,3.78,0.35,0.22,0.74,0.96,2.4,6.71,0.501,0.0,0.656,Eddy,Curry,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+11,64,1388,2001,18:19,2.98,6.47,0.0,0.03,0.86,1.14,1.17,2.25,3.42,0.8,0.31,0.48,0.8,1.7,6.83,0.461,0.0,0.753,Predrag,Drobnjak,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+12,65,2952,2001,21:44,2.49,6.49,0.09,0.68,0.65,0.95,0.45,2.38,2.83,1.54,0.68,0.12,0.85,2.15,5.72,0.384,0.136,0.677,Kendall,Gill,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+13,82,1086,2001,26:28,3.28,7.46,0.7,2.39,1.93,2.56,0.28,1.87,2.15,2.78,0.59,0.15,0.85,1.27,9.18,0.44,0.291,0.752,Antonio,Daniels,G,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+14,20,1383,2001,7:45,1.3,3.4,0.75,1.95,0.6,0.65,0.1,0.45,0.55,1.3,0.25,0.0,0.5,0.5,3.95,0.382,0.385,0.923,Joe,Crispin,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+15,26,1380,2001,12:12,1.62,4.0,0.27,0.88,0.65,0.77,0.96,1.42,2.38,0.38,0.35,0.42,0.81,0.85,4.15,0.404,0.304,0.85,Antonis,Fotsis,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+16,42,2893,2001,7:49,0.48,1.19,0.0,0.05,0.19,0.36,0.64,1.26,1.9,0.31,0.05,0.33,0.33,1.0,1.14,0.4,0.0,0.533,Chris,Dudley,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+17,82,1155,2001,23:49,4.59,9.52,0.13,0.43,2.39,3.02,0.77,2.2,2.96,2.17,0.84,0.28,1.8,1.77,11.7,0.481,0.314,0.79,Ricky,Davis,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+18,82,170,2001,36:37,6.72,12.98,0.01,0.06,4.12,5.82,2.9,6.0,8.9,2.72,0.5,2.06,2.73,2.38,17.57,0.518,0.2,0.709,Pau,Gasol,C-F,7.0,0.0,250.0,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+19,79,1103,2001,18:48,2.16,4.87,0.0,0.0,0.47,1.18,1.9,2.96,4.86,0.52,0.46,2.13,0.96,2.27,4.8,0.444,0.0,0.398,Adonal,Foyle,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+20,34,1029,2001,5:22,0.53,1.62,0.0,0.0,0.0,0.09,0.47,1.21,1.68,0.15,0.21,0.29,0.29,0.94,1.06,0.327,0.0,0.0,Dean,Garrett,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+21,59,1182,2001,13:07,1.32,3.08,0.53,1.24,0.39,0.49,0.24,0.98,1.22,1.71,0.54,0.03,0.56,0.83,3.56,0.429,0.425,0.793,Bryce,Drew,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+22,23,954,2001,12:24,1.57,3.13,0.0,0.04,1.17,1.87,1.04,1.13,2.17,0.52,0.17,0.22,0.83,1.7,4.3,0.5,0.0,0.628,Jason,Caffey,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+23,82,817,2001,23:18,1.52,3.37,0.09,0.32,0.88,1.11,0.18,1.87,2.05,1.55,0.57,0.12,0.73,2.52,4.01,0.453,0.269,0.791,Michael,Curry,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+24,35,2901,2001,17:07,1.43,4.17,0.43,1.2,0.11,0.23,0.23,1.26,1.49,3.26,0.69,0.11,1.06,0.57,3.4,0.342,0.357,0.5,Mookie,Blaylock,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+25,8,1325,2001,5:18,0.75,1.63,0.38,0.88,0.25,0.25,0.25,0.5,0.75,0.25,0.13,0.0,0.0,0.63,2.13,0.462,0.429,1.0,Brian,Cardinal,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+26,24,1127,2001,18:26,2.29,6.13,0.04,0.08,1.0,1.38,1.71,1.79,3.5,1.0,0.83,0.42,1.13,2.33,5.63,0.374,0.5,0.727,Tariq,Abdul-Wahad,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+27,6,1403,2001,12:43,0.5,2.33,0.17,0.83,0.67,1.0,0.0,0.83,0.83,0.67,0.0,0.0,0.67,1.0,1.83,0.214,0.2,0.667,Ike,Fontaine,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+28,57,1232,2001,41:03,7.37,17.67,1.19,3.68,5.72,7.4,1.79,5.25,7.04,6.35,1.25,0.44,3.88,3.02,21.65,0.417,0.324,0.773,Steve,Francis,G,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+29,77,1018,2001,38:41,7.77,16.84,0.27,0.91,5.44,6.79,2.57,6.47,9.04,3.1,1.27,1.05,3.25,2.78,21.25,0.461,0.3,0.801,Shareef,Abdur-Rahim,F,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+30,46,1224,2001,22:51,1.93,5.65,0.02,0.41,0.41,0.78,0.41,2.13,2.54,4.65,1.09,0.07,1.57,1.85,4.3,0.342,0.053,0.528,Anthony,Carter,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+31,22,1401,2001,15:35,1.14,2.91,0.0,0.0,1.09,1.41,1.45,1.45,2.91,0.77,0.5,0.05,0.59,1.77,3.36,0.391,0.0,0.774,Tremaine,Fowlkes,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+32,7,2850,2001,9:17,0.43,2.86,0.14,1.71,0.0,0.0,0.0,1.29,1.29,0.29,0.43,0.14,0.57,0.57,1.0,0.15,0.083,0.0,Dee,Brown,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+33,28,1047,2001,27:39,2.5,7.07,1.04,3.04,0.57,0.64,0.68,1.96,2.64,2.43,0.96,0.18,1.86,2.43,6.61,0.354,0.341,0.889,Emanual,Davis,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+34,74,830,2001,35:13,7.49,16.18,0.96,2.76,3.81,4.43,0.73,3.49,4.22,6.66,1.22,0.16,2.39,2.81,19.74,0.463,0.348,0.86,Sam,Cassell,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+35,3,1384,2001,7:00,0.33,2.0,0.0,0.0,0.33,1.33,0.33,1.67,2.0,0.0,0.0,0.33,1.0,1.33,1.0,0.167,0.0,0.25,Ernest,Brown,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+36,54,662,2001,15:01,2.43,5.43,0.02,0.15,1.52,2.17,1.31,2.5,3.81,0.46,0.31,0.2,1.07,2.02,6.39,0.447,0.125,0.701,Chris,Gatling,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+37,42,1158,2001,16:55,1.86,4.45,0.0,0.0,0.9,1.1,1.12,2.88,4.0,0.6,0.36,0.26,0.88,2.33,4.62,0.417,0.0,0.826,Michael,Doleac,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+38,28,1366,2001,8:48,0.82,2.5,0.18,0.96,0.43,0.71,0.39,1.39,1.79,0.54,0.64,0.25,0.25,0.64,2.25,0.329,0.185,0.6,Kedrick,Brown,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+39,57,1368,2001,14:20,1.65,4.26,0.0,0.02,1.23,1.74,1.11,2.37,3.47,0.75,0.28,0.46,0.75,1.84,4.53,0.387,0.0,0.707,Kwame,Brown,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+40,18,2861,2001,5:03,0.56,1.5,0.0,0.0,0.06,0.11,0.56,1.28,1.83,0.33,0.11,0.22,0.28,0.67,1.17,0.37,0.0,0.5,Chucky,Brown,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+41,81,795,2001,34:31,4.17,9.07,1.11,3.16,2.54,2.99,0.91,3.7,4.62,4.2,1.98,0.31,2.02,2.58,12.0,0.46,0.352,0.851,Doug,Christie,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+42,56,1289,2001,23:38,3.98,8.46,0.09,0.32,1.75,2.16,0.77,1.88,2.64,1.54,0.63,0.13,1.07,2.02,9.8,0.47,0.278,0.81,Courtney,Alexander,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+43,15,663,2001,6:28,1.2,3.4,0.0,0.13,0.27,0.53,0.47,1.47,1.93,0.4,0.0,0.07,0.33,0.4,2.67,0.353,0.0,0.5,Victor,Alexander,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+44,80,831,2001,32:03,3.13,6.59,0.0,0.0,2.11,2.46,3.41,6.41,9.83,1.34,0.74,0.98,1.06,2.78,8.36,0.474,0.0,0.858,P.J.,Brown,,,,,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+45,1,646,2001,6:00,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Randy,Brown,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+46,75,1099,2001,25:33,2.53,4.35,0.0,0.01,1.51,2.59,2.35,4.65,7.0,0.39,0.53,1.27,0.71,2.77,6.57,0.583,0.0,0.582,Kelvin,Cato,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+47,58,2895,2001,35:52,5.71,12.67,0.48,1.43,3.19,3.91,2.88,5.9,8.78,1.69,0.72,0.88,2.05,2.72,15.09,0.45,0.337,0.815,Derrick,Coleman,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+48,12,1387,2001,13:23,1.83,4.25,0.0,0.08,0.67,0.83,1.25,1.92,3.17,0.42,0.25,0.67,0.17,1.33,4.33,0.431,0.0,0.8,Malik,Allen,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+49,69,1036,2001,36:35,7.68,16.64,3.32,7.65,3.1,3.55,1.17,3.35,4.52,3.93,1.28,0.26,2.3,2.28,21.78,0.462,0.434,0.873,Ray,Allen,G,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+50,77,833,2001,38:40,5.32,12.51,0.0,0.01,3.81,4.65,3.3,6.31,9.61,2.01,0.7,1.08,2.06,2.92,14.45,0.426,0.0,0.818,Antonio,Davis,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+51,48,1269,2001,12:25,1.38,3.98,0.56,1.48,0.38,0.6,0.21,1.29,1.5,2.98,0.67,0.04,0.83,0.88,3.69,0.346,0.38,0.621,Rafer,Alston,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+52,53,968,2001,11:03,1.02,3.11,0.0,0.0,1.26,1.98,0.98,1.08,2.06,0.55,0.13,0.19,1.04,1.21,3.3,0.327,0.0,0.638,John,Amaechi,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+53,23,1389,2001,11:21,1.09,3.22,0.0,0.17,0.96,1.22,1.65,1.65,3.3,0.3,0.3,1.22,0.57,1.52,3.13,0.338,0.0,0.786,Chris,Andersen,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+54,82,670,2001,27:57,3.11,7.38,0.79,2.54,0.85,1.04,1.1,3.65,4.74,3.45,0.82,0.26,1.61,2.98,7.87,0.421,0.313,0.824,Rick,Fox,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+55,4,780,2001,9:00,0.25,2.0,0.0,0.0,0.25,0.5,0.75,0.75,1.5,0.0,0.0,0.5,0.5,0.5,0.75,0.125,0.0,0.5,Matt,Geiger,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+56,70,1108,2001,26:31,3.53,8.74,1.21,3.26,2.54,2.97,0.67,2.03,2.7,3.09,0.97,0.11,1.24,1.61,10.81,0.404,0.373,0.856,Derek,Anderson,G,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+57,76,697,2001,31:59,4.11,9.42,0.12,0.43,1.29,1.74,0.75,2.87,3.62,5.3,1.86,0.13,1.57,2.76,9.62,0.436,0.273,0.742,Kenny,Anderson,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+58,15,512,2001,14:37,1.4,5.07,0.87,3.2,0.33,0.6,0.07,2.13,2.2,0.93,0.4,0.4,0.93,1.13,4.0,0.276,0.271,0.556,Nick,Anderson,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+59,15,1356,2001,4:20,0.53,1.4,0.0,0.07,0.47,0.53,0.13,0.13,0.27,0.13,0.07,0.07,0.6,0.73,1.53,0.381,0.0,0.875,Damone,Brown,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+60,60,88,2001,39:45,9.32,21.78,2.02,5.22,4.08,5.12,2.3,2.92,5.22,3.98,1.57,0.72,2.57,3.18,24.73,0.428,0.387,0.798,Vince,Carter,F-G,6.0,6.0,220.0,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+61,82,1048,2001,19:28,1.82,4.55,0.48,1.72,0.9,1.3,0.7,2.34,3.04,0.93,0.59,0.18,1.18,1.63,5.01,0.399,0.277,0.692,Shandon,Anderson,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+62,60,655,2001,25:13,3.05,7.92,0.8,2.72,1.0,1.52,0.37,1.83,2.2,4.7,1.28,0.08,1.57,1.9,7.9,0.385,0.294,0.659,Greg,Anthony,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+63,47,1374,2001,24:28,3.7,8.17,0.83,2.4,2.64,3.4,0.87,1.94,2.81,3.7,1.47,0.23,2.06,2.45,10.87,0.453,0.345,0.775,Gilbert,Arenas,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+64,35,1347,2001,5:37,0.77,2.43,0.14,0.49,0.14,0.29,0.29,0.17,0.47,0.23,0.2,0.03,0.23,0.74,1.83,0.318,0.294,0.5,Brandon,Armstrong,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+65,82,933,2001,33:18,4.23,10.1,1.7,4.85,2.22,2.5,1.01,2.88,3.89,5.52,1.91,0.12,2.13,2.02,12.38,0.419,0.349,0.888,Darrell,Armstrong,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+66,37,1349,2001,10:00,1.32,3.0,0.0,0.05,0.35,0.49,0.32,0.76,1.08,1.89,0.3,0.03,0.62,0.81,3.0,0.441,0.0,0.722,Carlos,Arroyo,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+67,79,1236,2001,28:53,4.66,10.0,1.75,4.25,1.05,1.52,0.39,1.61,2.0,3.33,0.91,0.14,1.62,2.24,12.11,0.466,0.411,0.692,Chucky,Atkins,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+68,77,673,2001,17:06,1.82,4.26,0.0,0.04,1.0,1.31,0.77,2.16,2.92,1.34,0.73,0.16,0.7,1.49,4.64,0.427,0.0,0.762,Stacey,Augmon,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+69,21,1031,2001,14:34,1.71,4.38,0.0,0.14,0.19,0.19,0.52,2.86,3.38,0.62,0.43,0.24,0.52,1.71,3.62,0.391,0.0,1.0,Ike,Austin,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+70,27,1252,2001,9:33,0.96,3.33,0.22,1.3,0.48,0.7,0.15,0.74,0.89,1.33,0.26,0.0,0.7,0.63,2.63,0.289,0.171,0.684,William,Avery,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+71,50,1322,2001,12:40,1.44,3.56,0.0,0.02,0.82,1.4,1.1,2.14,3.24,0.46,0.34,0.48,0.92,2.16,3.7,0.404,0.0,0.586,Dalibor,Bagaric,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+72,57,1125,2001,9:03,0.79,1.98,0.11,0.19,0.51,0.72,0.4,0.79,1.19,2.0,0.44,0.04,0.82,0.89,2.19,0.398,0.545,0.707,Rick,Brunson,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+73,10,821,2001,8:55,1.0,2.3,0.1,0.3,0.8,1.2,0.6,0.7,1.3,0.5,0.0,0.1,0.5,1.0,2.9,0.435,0.333,0.667,Mitchell,Butler,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+74,55,810,2001,31:07,5.73,11.8,0.02,0.15,2.6,4.11,3.05,3.31,6.36,1.31,0.4,0.65,2.31,3.58,14.07,0.485,0.125,0.633,Vin,Baker,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+75,18,1301,2001,12:36,1.33,3.78,0.06,0.39,0.5,0.56,0.28,0.72,1.0,1.89,0.94,0.06,0.67,1.61,3.22,0.353,0.143,0.9,Erick,Barkley,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+76,29,2966,2001,20:09,2.55,6.62,0.83,2.45,0.72,0.93,0.03,1.93,1.97,2.69,0.48,0.07,1.14,1.28,6.66,0.385,0.338,0.778,Dana,Barros,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+77,81,940,2001,37:31,4.95,9.75,2.02,4.78,2.44,2.89,0.72,4.73,5.44,5.26,1.81,0.46,2.04,2.25,14.37,0.508,0.424,0.846,Brent,Barry,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+78,82,784,2001,24:16,3.11,6.37,1.48,3.15,1.32,1.41,0.51,2.34,2.85,3.34,1.15,0.24,1.35,1.63,9.01,0.489,0.469,0.931,Jon,Barry,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+79,27,1402,2001,15:06,1.96,4.89,0.15,0.44,1.07,1.37,1.19,2.37,3.56,0.81,0.37,0.19,1.19,3.48,5.15,0.402,0.333,0.784,Mengke,Bateer,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+80,74,1090,2001,24:37,2.85,5.27,0.0,0.03,1.19,1.76,2.49,4.01,6.5,0.47,0.81,0.91,0.69,2.96,6.89,0.541,0.0,0.677,Tony,Battie,F,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+81,78,1378,2001,39:43,5.28,12.32,1.32,3.54,2.54,3.63,2.31,3.05,5.36,2.77,1.55,1.04,1.99,2.76,14.42,0.429,0.373,0.7,Shane,Battier,F,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+82,4,1354,2001,10:11,0.75,2.75,0.0,1.5,0.5,0.5,0.5,0.5,1.0,0.5,0.0,0.0,1.25,0.75,2.0,0.273,0.0,1.0,Charlie,Bell,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+83,69,1339,2001,12:54,1.49,3.48,0.17,0.64,0.52,0.7,0.45,1.14,1.59,1.03,0.3,0.06,0.7,1.58,3.68,0.429,0.273,0.75,Raja,Bell,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+84,80,1043,2001,38:18,9.36,19.96,0.41,1.65,6.1,7.36,1.4,4.11,5.51,5.48,1.48,0.44,2.79,2.85,25.24,0.469,0.25,0.829,Kobe,Bryant,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+85,78,1264,2001,21:06,2.54,5.9,0.58,1.6,1.79,2.32,0.82,2.31,3.13,0.79,0.24,0.63,1.23,1.88,7.45,0.43,0.36,0.773,Jonathan,Bender,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+86,74,959,2001,23:37,3.08,7.0,0.28,0.8,1.41,1.57,0.27,1.77,2.04,4.38,1.2,0.09,1.34,2.34,7.85,0.44,0.356,0.897,Travis,Best,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+87,10,1386,2001,4:00,0.2,0.5,0.0,0.1,0.0,0.0,0.2,0.6,0.8,0.9,0.2,0.0,0.3,0.3,0.4,0.4,0.0,0.0,Jamison,Brewer,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+88,80,1199,2001,33:13,5.58,12.31,0.64,1.73,1.94,2.41,0.46,2.31,2.78,5.04,1.09,0.19,1.68,1.66,13.73,0.453,0.37,0.803,Mike,Bibby,G,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+89,82,1097,2001,28:43,4.24,10.04,1.51,3.84,2.52,2.85,0.43,2.33,2.76,5.49,0.8,0.21,1.68,2.06,12.52,0.423,0.394,0.885,Chauncey,Billups,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+90,58,1229,2001,23:51,3.09,6.19,0.28,0.93,0.71,0.84,1.17,2.78,3.95,1.83,1.29,0.21,0.72,2.45,7.16,0.499,0.296,0.837,Adrian,Griffin,F,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+91,73,1358,2001,25:57,3.34,9.12,1.23,3.74,0.88,1.18,1.6,4.1,5.7,0.73,0.23,1.84,0.64,1.6,8.79,0.366,0.33,0.744,Eddie,Griffin,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+92,44,1314,2001,9:27,0.73,1.73,0.0,0.0,0.68,0.84,0.59,1.34,1.93,0.23,0.36,0.43,0.52,1.34,2.14,0.421,0.0,0.811,Mark,Blount,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+93,41,746,2001,19:30,2.39,5.07,0.76,1.68,1.39,1.61,0.39,1.44,1.83,3.44,0.46,0.02,1.24,1.88,6.93,0.471,0.449,0.864,John,Crotty,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+94,15,1272,2001,18:36,2.33,5.47,0.0,0.0,1.53,1.6,1.33,2.27,3.6,1.07,0.4,0.87,1.07,3.13,6.2,0.427,0.0,0.958,Calvin,Booth,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+95,32,1371,2001,7:37,0.41,1.0,0.0,0.0,0.41,0.78,0.66,1.06,1.72,0.13,0.09,0.5,0.44,1.16,1.22,0.406,0.0,0.52,Ruben,Boumtje-Boumtje,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+96,52,1243,2001,11:17,1.17,3.35,0.02,0.1,0.75,0.9,0.73,1.38,2.12,0.21,0.35,0.29,0.21,1.23,3.12,0.351,0.2,0.83,Cal,Bowdler,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+97,59,1081,2001,28:47,2.63,6.75,0.95,2.51,0.78,1.63,0.71,2.03,2.75,1.49,1.05,0.42,1.12,1.97,6.98,0.389,0.378,0.479,Bruce,Bowen,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+98,75,1228,2001,22:30,1.96,4.09,0.01,0.16,0.92,1.23,1.79,2.2,3.99,0.69,1.0,0.55,0.55,2.28,4.85,0.479,0.083,0.75,Ryan,Bowen,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+99,3,1270,2001,10:00,1.67,2.33,0.0,0.33,0.0,0.0,0.0,0.33,0.33,0.33,0.67,0.0,0.0,1.0,3.33,0.714,0.0,0.0,Ira,Bowman,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+100,44,731,2001,25:40,2.89,6.84,0.07,0.2,0.64,0.84,1.34,3.68,5.02,1.75,0.89,0.68,1.39,2.64,6.48,0.422,0.333,0.757,Tom,Gugliotta,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+101,43,1293,2001,14:02,2.05,5.67,1.07,2.86,0.51,0.63,0.28,0.74,1.02,1.88,0.23,0.16,0.86,0.53,5.67,0.361,0.374,0.815,A.J.,Guyton,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+102,70,1026,2001,17:16,1.71,3.01,0.01,0.1,0.89,1.76,1.3,1.59,2.89,1.04,0.36,0.53,1.19,2.5,4.33,0.569,0.143,0.504,Darvin,Ham,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+103,63,1245,2001,34:52,7.49,17.21,0.25,0.67,4.76,5.35,1.16,2.27,3.43,2.71,0.6,0.22,2.1,2.16,20.0,0.435,0.381,0.89,Richard,Hamilton,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+104,9,1377,2001,10:53,1.11,2.11,0.0,0.11,0.0,0.11,0.67,1.33,2.0,0.56,0.44,0.0,0.22,1.11,2.22,0.526,0.0,0.0,Tang,Hamilton,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+105,54,1320,2001,15:41,1.91,4.54,0.0,0.0,2.19,3.35,2.04,2.65,4.69,0.26,0.39,0.33,1.11,1.93,6.0,0.42,0.0,0.652,Zendon,Hamilton,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+106,80,799,2001,30:50,4.86,11.64,0.29,1.04,1.98,2.44,1.23,3.15,4.38,4.05,1.53,0.4,2.36,2.3,11.99,0.418,0.277,0.81,Anfernee,Hardaway,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+107,68,576,2001,23:34,3.32,9.12,1.81,5.21,1.13,1.43,0.21,1.62,1.82,4.09,0.84,0.15,1.63,1.6,9.59,0.365,0.347,0.794,Tim,Hardaway,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+108,81,1159,2001,31:26,4.77,10.35,0.26,0.85,2.04,2.74,2.51,4.57,7.07,1.32,0.86,0.06,1.57,2.48,11.83,0.461,0.304,0.743,Matt,Harpring,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+109,44,1172,2001,29:45,5.23,11.0,0.02,0.07,2.61,3.27,2.18,4.09,6.27,1.23,0.93,0.48,1.77,3.77,13.09,0.475,0.333,0.799,Al,Harrington,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+110,77,1045,2001,20:18,3.08,5.84,0.0,0.03,1.58,2.23,1.62,2.91,4.53,0.48,0.39,0.47,1.23,3.25,7.74,0.527,0.0,0.709,Othella,Harrington,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+111,74,827,2001,21:01,3.36,7.26,0.59,1.59,1.8,2.14,0.66,2.14,2.8,1.57,0.72,0.08,0.82,1.34,9.12,0.464,0.373,0.842,Lucious,Harris,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+112,10,1340,2001,9:16,1.0,1.9,0.0,0.2,0.6,0.6,0.4,0.9,1.3,1.2,0.7,0.1,0.8,1.6,2.6,0.526,0.0,1.0,Jason,Hart,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+113,63,1225,2001,28:05,4.1,9.41,0.27,1.11,0.92,1.27,0.83,3.49,4.32,1.13,0.67,0.19,1.0,1.75,9.38,0.435,0.243,0.725,Rodney,Buford,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+114,30,641,2001,11:43,1.3,3.8,0.53,1.87,0.37,0.4,0.33,1.23,1.57,0.53,0.07,0.07,0.4,0.97,3.5,0.342,0.286,0.917,Matt,Bullard,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+115,63,1050,2001,22:57,3.59,9.33,1.06,3.4,1.24,1.54,0.92,2.3,3.22,2.1,0.84,0.16,0.94,1.56,9.48,0.384,0.313,0.804,Tony,Delk,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+116,47,1324,2001,17:57,2.3,4.62,0.0,0.0,1.15,1.91,1.7,3.13,4.83,0.79,0.45,0.51,0.7,2.45,5.74,0.498,0.0,0.6,Donnell,Harvey,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+117,78,1375,2001,28:38,3.42,8.05,0.77,2.12,1.12,1.46,0.83,2.44,3.27,2.21,0.71,0.56,1.29,2.36,8.73,0.425,0.364,0.763,Trenton,Hassell,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+118,62,1391,2001,20:26,1.76,3.56,0.0,0.0,1.56,2.58,2.31,2.89,5.19,0.47,0.34,1.47,0.81,2.55,5.08,0.493,0.0,0.606,Brendan,Haywood,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+119,12,1110,2001,5:50,1.25,2.58,0.17,0.33,0.33,0.58,0.08,0.17,0.25,0.33,0.5,0.17,0.67,0.33,3.0,0.484,0.5,0.571,Cedric,Henderson,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+120,14,879,2001,36:38,5.93,13.93,0.0,0.14,4.93,5.71,2.07,6.86,8.93,4.57,0.57,0.29,2.64,2.86,16.79,0.426,0.0,0.863,Grant,Hill,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+121,26,620,2001,31:10,2.73,7.0,0.0,0.04,2.58,3.96,3.04,7.5,10.54,0.88,0.65,0.5,1.85,3.92,8.04,0.39,0.0,0.65,Tyrone,Hill,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+122,69,942,2001,39:55,8.25,17.8,1.1,3.25,3.04,3.64,1.3,3.91,5.22,3.33,0.94,0.36,1.7,2.09,20.64,0.463,0.339,0.837,Michael,Finley,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+123,78,975,2001,18:01,1.55,3.73,0.31,1.18,1.0,1.18,0.23,2.44,2.67,1.74,0.78,0.06,0.41,1.12,4.41,0.416,0.261,0.848,Fred,Hoiberg,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+124,7,1395,2001,5:59,1.29,2.71,0.0,0.43,0.43,0.57,0.43,0.14,0.57,0.57,0.0,0.0,0.29,1.29,3.0,0.474,0.0,0.75,Maurice,Evans,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+125,81,738,2001,26:27,2.26,5.68,0.94,2.51,1.33,1.7,1.6,4.31,5.91,2.86,0.95,1.1,1.09,2.57,6.79,0.398,0.374,0.783,Robert,Horry,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+126,63,1312,2001,19:28,3.32,8.32,0.86,2.49,0.67,0.78,0.27,1.48,1.75,1.95,0.68,0.08,1.27,1.56,8.16,0.399,0.344,0.857,Eddie,House,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+127,77,834,2001,37:51,7.38,16.9,1.77,4.49,3.83,4.4,0.48,2.79,3.27,2.47,0.7,0.13,2.21,2.36,20.35,0.437,0.393,0.87,Allan,Houston,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+128,81,922,2001,32:32,5.7,12.41,0.0,0.02,3.22,4.23,2.75,4.8,7.56,2.09,0.57,0.58,1.88,3.27,14.63,0.46,0.0,0.761,Juwan,Howard,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+129,81,1113,2001,22:56,4.37,10.06,0.81,2.31,2.17,2.48,0.37,1.42,1.79,3.15,0.7,0.07,2.01,1.47,11.73,0.434,0.353,0.876,Troy,Hudson,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+130,73,1152,2001,28:02,4.7,11.1,0.25,1.27,2.62,3.55,1.14,2.22,3.36,4.33,1.55,0.32,2.34,2.05,12.26,0.423,0.194,0.737,Larry,Hughes,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+131,82,835,2001,19:42,2.28,5.98,0.96,2.54,0.24,0.49,0.22,1.26,1.48,1.57,0.8,0.23,0.67,1.46,5.77,0.382,0.38,0.5,Lindsey,Hunter,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+132,47,1351,2001,10:52,1.43,3.13,0.0,0.0,1.13,1.96,0.85,1.21,2.06,0.11,0.11,0.91,0.34,1.7,3.98,0.456,0.0,0.576,Steven,Hunter,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+133,62,1107,2001,21:25,3.89,9.15,0.0,0.08,3.35,4.45,2.19,3.19,5.39,1.13,0.27,1.35,1.52,3.02,11.13,0.425,0.0,0.754,Zydrunas,Ilgauskas,C,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+134,60,1037,2001,43:44,11.08,27.82,1.3,4.47,7.92,9.75,0.73,3.75,4.48,5.52,2.8,0.22,3.95,1.7,31.38,0.398,0.291,0.812,Allen,Iverson,G,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+135,81,1091,2001,21:38,4.12,9.31,0.98,2.7,1.84,2.27,1.01,2.09,3.1,2.02,0.9,0.14,1.15,1.79,11.06,0.443,0.361,0.81,Bobby,Jackson,G,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+136,9,716,2001,15:59,1.67,4.11,0.78,2.22,0.22,0.44,0.11,1.78,1.89,0.89,0.56,0.0,0.89,1.44,4.33,0.405,0.35,0.5,Jaren,Jackson,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+137,22,1256,2001,12:40,0.91,1.91,0.05,0.09,0.73,1.09,0.14,1.09,1.23,2.59,0.41,0.05,0.64,1.09,2.59,0.476,0.5,0.667,Jermaine,Jackson,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+138,55,793,2001,33:11,4.33,9.78,0.69,1.47,1.36,1.58,0.98,4.29,5.27,2.55,0.76,0.25,1.93,2.64,10.71,0.442,0.469,0.862,Jim,Jackson,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+139,39,1309,2001,12:47,1.54,4.21,0.0,0.03,1.69,2.05,1.23,2.05,3.28,0.36,0.28,0.15,0.77,1.77,4.77,0.366,0.0,0.825,Marc,Jackson,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+140,82,2962,2001,28:50,3.17,7.22,0.96,2.38,1.06,1.34,0.68,3.09,3.77,7.38,0.9,0.01,1.83,1.98,8.37,0.439,0.405,0.791,Mark,Jackson,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+141,21,1280,2001,10:44,1.62,4.33,0.43,1.71,0.57,0.81,0.14,1.1,1.24,0.52,0.71,0.14,1.1,1.38,4.24,0.374,0.25,0.706,Stephen,Jackson,F,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+142,56,1163,2001,16:54,2.39,4.88,0.0,0.0,0.54,1.07,1.59,2.55,4.14,0.43,0.45,1.54,1.32,3.11,5.32,0.491,0.0,0.5,Jerome,James,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+143,9,1268,2001,4:26,0.56,1.44,0.0,0.0,0.22,0.67,0.56,0.22,0.78,0.11,0.0,0.11,0.33,0.56,1.33,0.385,0.0,0.333,Tim,James,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+144,82,1198,2001,37:00,7.49,16.77,0.83,2.56,3.94,5.37,2.57,4.21,6.78,1.96,0.85,0.55,1.96,2.28,19.74,0.447,0.324,0.734,Antawn,Jamison,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+145,25,1263,2001,6:57,0.88,1.72,0.0,0.0,0.4,0.6,0.96,0.6,1.56,0.24,0.2,0.04,0.24,0.92,2.16,0.512,0.0,0.667,Harold,Jamison,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+146,79,1346,2001,24:14,3.42,7.48,0.16,0.71,2.39,3.35,1.08,2.63,3.71,1.77,0.81,0.61,1.35,2.67,9.39,0.457,0.232,0.713,Richard,Jefferson,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+147,15,1392,2001,5:03,0.73,2.6,0.0,0.2,0.27,0.53,0.33,1.0,1.33,0.33,0.0,0.07,0.2,0.6,1.73,0.282,0.0,0.5,Kirk,Haston,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+148,32,1121,2001,11:24,1.16,2.81,0.13,0.38,0.5,0.78,0.31,0.59,0.91,1.5,0.97,0.03,0.63,0.94,2.94,0.411,0.333,0.64,Anthony,Johnson,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+149,71,1276,2001,24:17,3.01,7.61,1.25,3.48,1.2,1.48,0.83,2.63,3.46,1.14,0.87,0.79,1.42,2.3,8.48,0.396,0.36,0.81,DerMarr,Johnson,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+150,81,842,2001,20:29,1.1,2.38,0.0,0.01,0.37,0.81,1.75,4.0,5.75,0.33,0.46,1.01,0.64,2.7,2.57,0.461,0.0,0.455,Ervin,Johnson,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+151,77,1364,2001,24:53,3.26,7.58,0.49,1.69,0.53,0.69,0.97,2.36,3.34,2.32,0.77,0.26,0.92,1.48,7.55,0.43,0.292,0.774,Joe,Johnson,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+152,21,1381,2001,5:57,0.38,0.95,0.0,0.0,0.48,0.95,0.62,1.1,1.71,0.14,0.14,0.43,0.52,1.67,1.24,0.4,0.0,0.5,Alvin,Jones,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+153,81,881,2001,38:58,6.38,14.79,1.84,4.72,3.67,4.38,0.75,3.91,4.67,3.23,1.44,0.95,1.83,3.19,18.27,0.432,0.39,0.837,Eddie,Jones,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+154,31,1266,2001,9:38,0.68,1.61,0.0,0.0,0.65,1.06,1.13,2.03,3.16,0.29,0.32,0.29,0.52,1.94,2.0,0.42,0.0,0.606,Evan,Eschmeyer,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+155,66,561,2001,20:30,3.14,6.55,0.0,0.08,1.83,2.47,0.21,0.83,1.05,4.33,0.61,0.14,1.15,1.3,8.11,0.479,0.0,0.742,Avery,Johnson,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+156,67,1203,2001,16:12,1.7,4.24,1.03,2.78,0.64,0.88,0.19,1.34,1.54,2.09,0.34,0.01,0.91,1.24,5.07,0.401,0.371,0.729,Damon,Jones,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+157,79,828,2001,24:16,2.81,6.43,0.05,0.14,1.34,1.65,2.95,4.37,7.32,1.61,0.63,0.24,1.11,2.65,7.01,0.437,0.364,0.815,Popeye,Jones,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+158,26,958,2001,16:16,2.27,4.46,0.04,0.04,0.92,1.73,1.19,2.54,3.73,0.42,0.42,0.58,0.81,1.54,5.5,0.509,1.0,0.533,Alan,Henderson,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+159,75,2973,2001,16:31,2.33,5.43,0.0,0.05,1.39,1.75,1.2,2.64,3.84,0.69,0.57,0.44,1.08,2.45,6.05,0.43,0.0,0.794,Shawn,Kemp,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+160,59,3008,2001,13:05,1.73,3.66,0.44,1.1,0.66,0.68,0.1,0.92,1.02,1.05,0.22,0.02,0.41,0.83,4.56,0.472,0.4,0.975,Steve,Kerr,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+161,82,908,2001,37:15,5.43,13.88,1.43,4.44,2.45,3.01,1.59,5.67,7.26,9.85,2.13,0.24,3.49,1.66,14.73,0.391,0.321,0.814,Jason,Kidd,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+162,82,1352,2001,26:14,3.48,7.72,0.3,1.22,3.48,4.52,1.82,3.09,4.9,1.15,1.41,1.94,1.32,1.9,10.73,0.45,0.25,0.768,Andrei,Kirilenko,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+163,82,1024,2001,31:41,5.34,11.46,1.2,2.95,1.56,2.1,0.83,2.52,3.4,2.63,1.59,0.38,1.33,1.32,13.44,0.466,0.405,0.744,Kerry,Kittles,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+164,53,1109,2001,21:42,2.66,6.3,0.04,0.15,1.64,2.17,0.21,1.85,2.1,5.7,1.49,0.13,2.09,2.55,7.0,0.422,0.25,0.757,Brevin,Knight,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+165,49,1042,2001,8:47,0.84,2.31,0.0,0.0,0.33,0.43,0.98,1.14,2.12,0.16,0.22,0.2,0.55,1.94,2.0,0.363,0.0,0.762,Travis,Knight,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+166,59,816,2001,25:19,3.58,8.54,0.9,2.9,1.85,2.59,0.73,2.97,3.69,3.56,0.81,0.29,1.92,1.54,9.9,0.419,0.31,0.712,Toni,Kukoc,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+167,78,1193,2001,31:29,5.4,11.79,1.33,3.44,1.35,1.94,2.26,5.17,7.42,1.14,0.71,2.73,1.21,3.6,13.47,0.458,0.388,0.695,Raef,LaFrentz,C,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+168,57,740,2001,25:20,2.95,6.35,0.04,0.18,1.16,1.33,1.3,3.98,5.28,2.65,1.05,0.44,1.49,2.26,7.09,0.464,0.2,0.868,Christian,Laettner,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+169,44,1223,2001,10:52,1.59,4.0,0.61,1.68,0.95,1.05,0.3,0.95,1.25,1.36,0.3,0.11,0.91,1.11,4.75,0.398,0.365,0.913,Trajan,Langdon,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+170,33,1315,2001,13:03,1.48,3.79,0.03,0.12,0.24,0.33,0.67,1.36,2.03,0.42,0.24,0.15,0.27,0.76,3.24,0.392,0.25,0.727,Dan,Langhi,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+171,60,2931,2001,34:48,9.18,22.07,0.17,0.88,4.38,5.55,0.83,4.82,5.65,5.17,1.42,0.43,2.7,1.98,22.92,0.416,0.189,0.79,Michael,Jordan,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+172,71,993,2001,23:23,4.44,10.83,1.25,3.38,1.32,1.69,0.54,2.04,2.58,1.83,0.83,0.35,1.28,1.48,11.45,0.41,0.371,0.783,Voshon,Lenard,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+173,36,1220,2001,13:35,1.78,3.97,0.08,0.5,0.36,0.56,0.28,0.92,1.19,1.0,0.64,0.25,0.89,2.47,4.0,0.448,0.167,0.65,Quincy,Lewis,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+174,71,1149,2001,36:24,6.41,13.69,1.73,4.45,2.28,2.82,1.96,5.06,7.01,1.73,1.46,0.56,1.37,2.45,16.83,0.468,0.389,0.81,Rashard,Lewis,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+175,13,1046,2001,13:39,1.15,4.15,0.08,0.62,0.77,0.85,0.69,1.23,1.92,2.0,0.69,0.15,0.15,0.85,3.15,0.278,0.125,0.909,Randy,Livingston,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+176,63,1332,2001,15:40,1.9,3.87,0.0,0.0,0.71,1.35,1.7,2.29,3.98,0.65,0.35,0.44,1.0,2.86,4.52,0.492,0.0,0.529,Art,Long,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+177,66,545,2001,28:19,2.48,5.83,0.05,0.26,1.3,1.86,0.47,3.03,3.5,2.06,0.95,0.18,1.56,1.86,6.32,0.426,0.176,0.699,Grant,Long,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+178,63,1200,2001,9:09,0.94,2.46,0.22,0.51,0.59,0.87,0.46,0.81,1.27,0.62,0.29,0.02,0.57,1.16,2.68,0.381,0.438,0.673,Felipe,Lopez,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+179,15,1394,2001,7:55,1.0,2.87,0.53,1.4,0.27,0.47,0.13,0.8,0.93,1.27,0.4,0.07,0.87,1.13,2.8,0.349,0.381,0.571,Mike,James,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+180,71,1187,2001,20:34,3.13,7.32,0.89,1.99,0.68,0.89,0.2,1.52,1.72,3.46,0.69,0.0,1.35,1.69,7.82,0.427,0.447,0.762,Tyronn,Lue,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+181,45,843,2001,19:48,1.62,4.4,0.02,0.13,0.56,0.89,1.56,2.58,4.13,1.2,0.89,0.31,0.91,1.67,3.82,0.369,0.167,0.625,George,Lynch,,,,,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+182,62,1214,2001,24:12,3.98,7.5,0.0,0.0,1.77,2.65,2.53,3.56,6.1,1.26,0.39,1.44,1.06,2.92,9.74,0.531,0.0,0.671,Todd,MacCulloch,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+183,12,754,2001,13:21,1.17,4.08,0.58,2.33,0.42,0.58,0.17,1.0,1.17,0.33,0.42,0.08,0.58,1.42,3.33,0.286,0.25,0.714,Sam,Mack,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+184,58,1300,2001,11:11,1.14,2.52,0.0,0.03,0.6,0.93,1.53,1.26,2.79,0.76,0.28,0.22,0.38,1.79,2.88,0.452,0.0,0.648,Mark,Madsen,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+185,63,1235,2001,25:39,3.73,8.41,0.73,2.21,3.19,3.98,0.86,2.81,3.67,1.78,0.65,0.3,1.84,2.46,11.38,0.443,0.331,0.801,Corey,Maggette,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+186,82,1274,2001,18:55,2.78,5.05,0.0,0.01,2.96,4.06,1.87,3.76,5.62,0.38,0.33,1.05,1.44,2.45,8.52,0.551,0.0,0.73,Jamaal,Magloire,,,,,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+187,65,516,2001,18:12,1.52,4.45,1.22,3.62,0.35,0.6,0.43,2.28,2.71,1.38,0.74,0.23,0.54,1.6,4.62,0.343,0.336,0.59,Dan,Majerle,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+188,5,811,2001,9:24,0.8,2.4,0.0,0.0,0.2,0.4,1.0,0.8,1.8,1.0,0.2,0.6,0.6,1.6,1.8,0.333,0.0,0.5,Antonio,Harvey,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+189,80,583,2001,37:57,7.94,17.49,0.11,0.31,6.36,7.99,1.78,6.8,8.58,4.26,1.9,0.74,3.29,2.86,22.35,0.454,0.36,0.797,Karl,Malone,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+190,82,1027,2001,38:51,7.62,17.23,0.87,3.02,4.3,5.51,0.91,2.33,3.24,8.12,0.94,0.16,3.46,2.27,20.41,0.442,0.286,0.781,Stephon,Marbury,G,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+191,81,1226,2001,38:24,8.07,17.22,0.59,1.51,2.36,2.79,2.6,7.31,9.91,2.0,1.84,1.06,1.78,2.64,19.1,0.469,0.393,0.845,Shawn,Marion,G,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+192,21,1167,2001,15:14,1.81,4.19,0.0,0.0,0.95,1.62,0.9,2.67,3.57,0.38,0.24,0.48,0.9,1.9,4.57,0.432,0.0,0.588,Sean,Marks,,,,,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+193,58,877,2001,30:05,5.91,11.4,0.22,0.72,2.76,3.9,2.72,4.91,7.64,1.74,0.86,1.16,2.14,2.59,14.81,0.519,0.31,0.708,Donyell,Marshall,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+194,3,929,2001,7:27,0.0,3.33,0.0,0.67,0.33,0.67,0.0,0.33,0.33,1.0,0.67,0.0,0.33,1.33,0.33,0.0,0.0,0.5,Darrick,Martin,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+195,73,1281,2001,34:21,6.1,13.18,0.21,0.92,2.48,3.66,1.55,3.77,5.32,2.63,1.23,1.66,2.36,3.58,14.88,0.463,0.224,0.678,Kenyon,Martin,F,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+196,40,826,2001,39:54,7.58,18.6,1.03,2.8,5.28,6.03,0.78,5.28,6.05,4.28,1.13,0.15,2.75,2.0,21.45,0.407,0.366,0.876,Jamal,Mashburn,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+197,82,3057,2001,38:20,3.85,7.63,0.01,0.01,1.88,2.7,1.51,6.37,7.88,4.22,0.7,0.27,1.59,2.28,9.6,0.505,1.0,0.697,Anthony,Mason,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+198,73,2988,2001,17:01,2.18,4.78,0.01,0.01,1.15,1.6,1.37,3.07,4.44,0.36,0.41,0.42,0.89,2.38,5.52,0.456,1.0,0.718,Tony,Massenburg,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+199,53,1015,2001,13:32,1.51,3.4,0.74,1.87,0.25,0.36,0.6,1.81,2.42,0.77,0.34,0.13,0.42,1.57,4.0,0.444,0.394,0.684,Walter,McCarty,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+200,26,1055,2001,5:53,0.77,1.88,0.0,0.0,0.46,1.0,0.62,0.77,1.38,0.15,0.23,0.38,0.54,0.88,2.0,0.408,0.0,0.462,Amal,McCaskill,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+201,81,1215,2001,26:25,3.54,7.9,0.64,2.07,0.56,0.84,1.54,4.51,6.05,1.43,0.93,0.57,0.98,2.27,8.28,0.448,0.31,0.662,Jumaine,Jones,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+202,33,1133,2001,16:23,2.21,5.61,0.52,1.52,0.91,1.06,0.33,1.15,1.48,2.15,0.52,0.21,1.3,1.76,5.85,0.395,0.34,0.857,Rusty,LaRue,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+203,68,2883,2001,26:57,3.03,8.47,0.88,3.26,1.94,2.4,0.99,2.71,3.69,3.0,0.85,0.28,2.12,2.57,8.88,0.358,0.27,0.81,George,McCloud,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+204,21,1150,2001,4:54,0.57,1.0,0.0,0.0,0.1,0.38,0.38,0.81,1.19,0.33,0.0,0.24,0.38,0.67,1.24,0.571,0.0,0.25,Jelani,McCoy,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+205,10,965,2001,23:36,4.3,7.5,0.0,0.0,2.7,3.3,1.8,3.7,5.5,1.8,1.0,0.8,2.0,2.0,11.3,0.573,0.0,0.818,Antonio,McDyess,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+206,76,1087,2001,38:16,9.41,20.87,1.36,3.72,5.46,7.3,1.97,5.88,7.86,5.26,1.57,0.96,2.49,1.83,25.63,0.451,0.364,0.748,Tracy,McGrady,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+207,41,2967,2001,19:06,1.27,2.98,0.12,0.29,0.24,0.34,1.17,1.93,3.1,1.1,1.0,0.1,0.54,2.2,2.9,0.426,0.417,0.714,Derrick,McKey,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+208,69,1326,2001,10:33,2.1,4.41,0.0,0.06,0.59,0.87,1.23,1.06,2.29,0.62,0.42,0.16,0.61,1.72,4.8,0.477,0.0,0.683,Slava,Medvedenko,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+209,53,1096,2001,32:21,5.87,14.79,0.34,1.17,1.79,2.25,0.94,2.42,3.36,2.42,0.6,0.25,1.66,2.04,13.87,0.397,0.29,0.798,Ron,Mercer,G,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+210,82,1295,2001,27:09,3.77,7.83,0.04,0.23,1.93,3.11,1.33,4.2,5.52,2.24,0.87,1.26,1.95,2.24,9.5,0.481,0.158,0.62,Darius,Miles,G,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+211,81,1222,2001,37:18,5.85,12.9,0.27,1.07,4.51,5.52,1.33,3.35,4.68,10.89,1.56,0.42,3.02,2.81,16.48,0.454,0.253,0.817,Andre,Miller,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+212,63,1299,2001,33:45,5.57,12.73,1.84,4.81,2.19,2.87,0.78,3.56,4.33,3.14,0.75,0.37,1.71,2.3,15.17,0.438,0.383,0.762,Mike,Miller,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+213,66,809,2001,18:43,2.7,6.47,0.73,1.92,1.29,1.62,0.77,2.11,2.88,1.09,0.47,0.2,0.85,1.82,7.41,0.417,0.378,0.794,Chris,Mills,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+214,72,634,2001,10:04,1.36,3.15,0.14,0.49,0.53,0.68,0.25,0.89,1.14,0.63,0.17,0.06,0.36,1.1,3.39,0.432,0.286,0.776,Sam,Mitchell,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+215,81,1051,2001,37:25,5.72,13.84,0.93,2.89,2.26,2.7,0.56,2.07,2.63,6.17,0.78,0.07,1.81,2.49,14.62,0.413,0.321,0.836,Jeff,McInnis,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+216,74,1184,2001,42:06,8.04,18.35,2.01,5.09,3.61,4.24,0.85,3.2,4.05,2.53,1.47,0.5,2.43,2.55,21.7,0.438,0.395,0.85,Cuttino,Mobley,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+217,82,1154,2001,26:27,4.01,8.7,0.0,0.01,1.67,2.71,2.95,4.99,7.94,0.4,0.77,0.74,1.44,3.07,9.7,0.461,0.0,0.617,Nazr,Mohammed,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+218,15,1313,2001,5:04,0.53,1.33,0.0,0.0,0.0,0.0,0.27,1.4,1.67,0.27,0.2,0.13,0.53,0.8,1.07,0.4,0.0,0.0,Jerome,Moiso,,,,,19,NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
+219,48,887,2001,13:38,1.1,2.75,0.0,0.02,0.19,0.6,0.75,2.17,2.92,0.33,0.25,0.48,0.52,1.92,2.4,0.402,0.0,0.31,Eric,Montross,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+220,29,1157,2001,7:18,1.0,2.1,0.03,0.07,0.69,0.9,0.76,1.07,1.83,0.38,0.24,0.31,0.48,1.21,2.72,0.475,0.5,0.769,Mikki,Moore,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+221,68,1361,2001,16:21,1.63,4.25,0.22,1.15,0.26,0.41,1.13,1.97,3.1,0.94,0.31,0.4,0.66,1.06,3.75,0.384,0.192,0.643,Terence,Morris,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+222,75,771,2001,32:42,5.96,11.55,0.01,0.04,3.77,5.75,2.43,6.0,8.43,1.16,0.36,2.48,2.43,3.44,15.71,0.516,0.333,0.657,Alonzo,Mourning,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+223,82,1373,2001,17:40,2.17,5.16,0.04,0.11,1.48,1.9,1.21,2.72,3.93,0.85,0.44,0.26,1.02,2.65,5.85,0.421,0.333,0.776,Troy,Murphy,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+224,71,884,2001,32:33,6.06,13.89,1.42,3.35,3.03,3.7,1.14,4.1,5.24,2.21,0.99,0.61,1.99,2.08,16.56,0.436,0.424,0.817,Lamond,Murray,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+225,39,765,2001,12:09,2.18,5.31,1.03,2.67,0.44,0.54,0.46,0.9,1.36,0.49,0.28,0.21,0.64,0.95,5.82,0.411,0.385,0.81,Tracy,Murray,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+226,75,1283,2001,32:13,4.76,10.25,0.21,0.79,2.68,3.16,1.23,3.45,4.68,1.39,0.89,0.36,1.39,2.27,12.41,0.464,0.271,0.848,Desmond,Mason,G,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+227,80,660,2001,36:19,4.01,8.01,0.0,0.0,3.48,4.55,3.18,7.61,10.79,1.04,0.36,2.38,1.95,3.03,11.5,0.501,0.0,0.764,Dikembe,Mutombo,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+228,5,1330,2001,9:12,1.2,2.0,0.0,0.0,1.6,2.0,1.2,1.0,2.2,0.0,0.0,0.4,0.2,1.2,4.0,0.6,0.0,0.8,Mamadou,N'diaye,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+229,79,1319,2001,24:14,4.67,9.67,0.01,0.03,1.42,1.9,1.3,2.38,3.68,1.19,0.75,0.22,1.22,2.22,10.77,0.483,0.5,0.747,Lee,Nailon,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+230,82,1039,2001,34:35,6.4,13.27,1.9,4.18,3.17,3.57,0.61,2.49,3.1,7.73,0.65,0.05,2.79,2.0,17.88,0.483,0.455,0.887,Steve,Nash,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+231,69,1180,2001,21:44,2.65,6.1,0.19,0.68,0.93,1.35,1.52,3.09,4.61,1.32,0.88,0.32,0.71,2.38,6.42,0.435,0.277,0.688,Tyrone,Nesby,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+232,82,1213,2001,27:05,3.95,8.01,0.0,0.01,0.48,0.87,2.44,4.07,6.51,0.91,0.55,1.33,1.15,3.2,8.38,0.493,0.0,0.549,Rasho,Nesterovic,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+233,42,1323,2001,30:19,3.12,6.26,0.02,0.17,1.79,2.1,1.9,3.38,5.29,1.07,0.9,0.48,1.17,2.79,8.05,0.498,0.143,0.852,Ira,Newble,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+234,45,2950,2001,16:04,1.49,3.29,0.49,1.27,0.93,1.29,0.2,0.89,1.09,0.31,0.64,0.09,0.47,1.96,4.4,0.453,0.386,0.724,Johnny,Newman,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+235,82,1063,2001,27:25,3.06,7.7,0.44,1.63,1.55,2.06,0.89,2.11,3.0,4.91,0.99,0.05,1.9,1.59,8.11,0.398,0.269,0.751,Moochie,Norris,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+236,76,346,2001,38:01,7.89,16.55,1.83,4.61,5.79,6.79,1.58,8.36,9.93,2.45,1.09,1.01,1.91,2.92,23.41,0.477,0.397,0.853,Dirk,Nowitzki,F,7.0,0.0,245.0,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+237,72,1059,2001,37:35,7.54,15.74,0.01,0.19,3.94,5.74,2.61,7.9,10.51,1.64,0.63,2.31,2.42,3.74,19.04,0.479,0.071,0.688,Jermaine,O'Neal,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+238,67,735,2001,36:10,10.63,18.34,0.0,0.01,5.94,10.7,3.51,7.16,10.67,2.99,0.61,2.04,2.55,2.97,27.19,0.579,0.0,0.555,Shaquille,O'Neal,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+239,57,2957,2001,24:15,1.7,4.61,0.02,0.11,0.37,0.49,1.26,4.75,6.02,2.0,0.86,0.19,1.53,3.07,3.79,0.369,0.167,0.75,Charles,Oakley,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+240,29,1216,2001,34:27,5.21,12.41,0.55,2.9,2.1,3.21,1.07,5.0,6.07,5.9,0.79,1.24,3.34,3.14,13.07,0.419,0.19,0.656,Lamar,Odom,F,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+241,41,3006,2001,13:28,1.73,3.63,0.02,0.17,0.54,0.8,0.61,2.02,2.63,0.73,0.51,0.51,0.61,1.95,4.02,0.477,0.143,0.667,Danny,Manning,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+242,19,1397,2001,7:12,0.89,2.37,0.11,0.63,0.32,0.47,0.0,0.42,0.42,1.11,0.16,0.0,0.58,0.84,2.21,0.378,0.167,0.667,Dean,Oliver,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+243,81,1084,2001,21:16,1.69,4.36,0.01,0.02,2.31,2.8,0.31,1.96,2.27,3.59,0.77,0.02,1.31,1.2,5.7,0.388,0.5,0.824,Kevin,Ollie,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+244,80,1179,2001,32:06,4.8,11.08,0.0,0.0,1.46,2.35,2.05,6.84,8.89,1.13,0.69,1.81,2.19,2.71,11.06,0.433,0.0,0.622,Michael,Olowokandi,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+245,36,1327,2001,6:10,0.61,1.14,0.0,0.0,0.31,0.5,0.75,1.44,2.19,0.11,0.11,0.06,0.39,1.0,1.53,0.537,0.0,0.611,Olumide,Oyedeji,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+246,16,668,2001,15:50,1.56,4.25,0.06,0.25,0.69,0.94,0.44,1.0,1.44,3.06,0.81,0.0,1.25,2.0,3.88,0.368,0.25,0.733,Robert,Pack,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+247,75,1221,2001,17:14,2.51,5.27,0.65,1.51,1.0,1.36,1.48,2.32,3.8,1.09,0.57,0.17,0.92,1.87,6.67,0.476,0.434,0.735,Scott,Padgett,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+248,66,1218,2001,11:53,1.24,3.24,0.2,0.62,0.82,1.12,0.17,0.94,1.11,1.26,0.44,0.06,0.61,0.92,3.5,0.383,0.317,0.73,Milt,Palacio,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+249,48,886,2001,30:35,4.58,10.21,1.06,2.67,2.0,2.54,0.54,3.46,4.0,3.73,1.17,0.29,1.94,1.54,12.23,0.449,0.398,0.787,Aaron,McKie,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+250,82,1275,2001,16:42,2.06,4.68,0.01,0.16,0.7,0.93,0.99,2.28,3.27,0.61,0.24,0.23,0.85,2.12,4.83,0.44,0.077,0.75,Hanno,Mottola,F,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+251,77,363,2001,29:27,3.48,8.3,0.79,2.45,1.4,2.08,0.43,2.13,2.56,4.34,1.16,0.09,1.96,2.16,9.16,0.419,0.323,0.675,Tony,Parker,G,6.0,2.0,185.0,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+252,75,1185,2001,23:33,4.25,8.25,0.12,0.48,2.56,3.65,2.07,1.91,3.97,1.43,1.05,0.49,1.52,1.87,11.19,0.515,0.25,0.701,Ruben,Patterson,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+253,82,2968,2001,40:12,8.99,19.24,0.9,2.88,3.26,4.09,0.98,3.85,4.83,8.99,1.6,0.32,2.55,2.18,22.13,0.467,0.314,0.797,Gary,Payton,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+254,82,744,2001,25:07,3.51,8.34,1.35,3.45,0.61,0.71,0.45,2.06,2.51,2.16,0.74,0.13,0.93,1.67,8.99,0.421,0.392,0.862,Anthony,Peeler,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+255,74,1279,2001,22:24,2.99,7.11,0.04,0.09,1.68,2.42,1.8,3.5,5.3,0.32,0.24,1.2,1.31,3.51,7.69,0.42,0.429,0.693,Chris,Mihm,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+256,83,866,2001,23:15,2.0,3.6,0.01,0.02,0.52,1.23,1.77,2.61,4.39,1.53,0.84,1.11,1.16,2.47,4.53,0.555,0.5,0.422,Bo,Outlaw,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+257,2,647,2001,24:00,2.5,5.0,0.0,0.0,0.5,1.0,0.0,2.0,2.0,3.5,1.5,0.0,3.5,3.0,5.5,0.5,0.0,0.5,Elliot,Perry,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+258,78,896,2001,35:47,5.99,12.1,1.83,4.13,1.27,1.59,0.64,3.13,3.77,2.22,0.99,0.47,0.95,1.19,15.08,0.495,0.444,0.798,Wesley,Person,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+259,63,1303,2001,31:35,5.33,12.19,1.33,3.67,2.02,2.68,1.44,2.1,3.54,2.43,1.16,0.17,1.37,2.76,14.02,0.438,0.364,0.751,Morris,Peterson,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+260,71,883,2001,24:10,2.92,6.63,1.56,3.35,1.42,1.59,0.61,1.99,2.59,1.58,0.58,0.17,0.9,1.55,8.82,0.439,0.466,0.894,Eric,Piatkowski,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+261,82,1168,2001,40:14,8.62,19.49,2.56,6.34,6.34,7.84,0.99,5.91,6.9,3.18,1.88,1.05,2.94,2.89,26.15,0.442,0.404,0.809,Paul,Pierce,F,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+262,62,2933,2001,32:13,3.97,9.66,0.87,2.85,1.82,2.35,1.24,3.94,5.18,5.85,1.63,0.56,2.76,2.61,10.63,0.411,0.305,0.774,Scottie,Pippen,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+263,74,943,2001,14:59,1.23,2.72,0.0,0.0,0.85,1.76,1.69,2.54,4.23,0.68,0.2,1.47,0.69,2.05,3.31,0.453,0.0,0.485,Greg,Ostertag,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+264,80,1118,2001,23:30,2.46,4.48,0.0,0.0,1.44,2.08,2.35,4.71,7.06,0.66,0.88,0.95,0.85,2.53,6.36,0.55,0.0,0.693,Scot,Pollard,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+265,41,1095,2001,10:23,0.88,2.22,0.1,0.61,0.27,0.51,0.49,1.29,1.78,0.41,0.27,0.27,0.37,1.15,2.12,0.396,0.16,0.524,Mark,Pope,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+266,72,2873,2001,17:57,1.89,4.46,0.82,1.97,0.94,1.15,0.17,2.11,2.28,2.85,0.63,0.22,1.18,1.24,5.54,0.424,0.415,0.819,Terry,Porter,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+267,79,1022,2001,17:00,1.73,3.81,0.0,0.0,1.13,1.52,2.11,2.28,4.39,0.38,0.47,0.23,0.8,2.2,4.59,0.455,0.0,0.742,Vitaly,Potapenko,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+268,20,967,2001,5:55,0.4,1.45,0.1,0.2,0.6,0.9,0.4,0.65,1.05,0.25,0.15,0.0,0.1,0.7,1.5,0.276,0.5,0.667,Donny,Marshall,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+269,62,1288,2001,21:53,2.42,4.84,0.0,0.03,1.61,2.39,2.4,3.11,5.52,0.61,0.9,0.48,0.65,2.52,6.45,0.5,0.0,0.676,Eduardo,Najera,F,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+270,20,729,2001,4:25,0.45,1.35,0.2,0.75,0.45,0.65,0.2,0.2,0.4,0.45,0.15,0.05,0.5,0.65,1.55,0.333,0.267,0.692,Brent,Price,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+271,38,388,2001,6:15,1.24,2.79,0.0,0.0,0.47,0.71,0.82,1.0,1.82,0.34,0.18,0.11,0.39,0.76,2.95,0.443,0.0,0.667,Zach,Randolph,F,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+272,74,1362,2001,15:58,2.55,5.05,0.0,0.0,1.82,2.36,1.14,2.78,3.92,0.51,0.38,0.99,1.14,2.59,6.93,0.505,0.0,0.771,Zeljko,Rebraca,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+273,6,932,2001,5:30,0.33,1.0,0.0,0.17,0.17,0.17,0.0,0.0,0.0,0.83,0.17,0.0,0.17,0.67,0.83,0.333,0.0,1.0,Eldridge,Recasner,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+274,67,1287,2001,21:10,4.39,9.09,1.31,2.96,1.36,1.72,1.15,2.19,3.34,1.36,0.63,0.1,0.85,1.43,11.45,0.483,0.444,0.791,Michael,Redd,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+275,68,977,2001,10:30,1.32,2.79,0.0,0.0,0.65,1.0,0.96,1.63,2.59,0.4,0.29,0.65,0.79,2.65,3.29,0.474,0.0,0.647,Don,Reid,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+276,20,508,2001,30:21,3.25,8.35,0.9,3.2,1.2,1.5,0.25,2.1,2.35,1.55,0.6,0.15,1.2,1.7,8.6,0.389,0.281,0.8,Glen,Rice,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+277,80,1372,2001,32:51,5.8,13.63,1.03,3.08,1.76,2.63,1.55,2.7,4.25,2.95,1.33,0.39,2.0,2.44,14.39,0.426,0.333,0.671,Jason,Richardson,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+278,81,1297,2001,26:35,4.94,11.43,1.64,4.31,1.77,2.31,1.4,2.73,4.12,1.58,0.96,0.26,1.26,1.75,13.28,0.432,0.381,0.765,Quentin,Richardson,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+279,64,604,2001,11:08,1.56,3.86,0.28,0.97,0.66,0.69,0.22,1.25,1.47,0.89,0.28,0.09,0.63,0.95,4.06,0.405,0.29,0.955,Mitch,Richmond,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+280,10,837,2001,17:17,3.7,8.1,0.6,1.5,1.3,1.7,1.0,2.3,3.3,1.2,0.3,0.2,1.4,1.1,9.3,0.457,0.4,0.765,Isaiah,Rider,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+281,79,2890,2001,36:35,5.24,11.56,2.28,5.61,3.75,4.11,0.29,2.48,2.77,3.2,1.11,0.13,1.52,1.81,16.51,0.453,0.406,0.911,Reggie,Miller,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+282,80,539,2001,35:41,5.68,13.36,1.44,3.8,1.79,2.58,0.99,3.84,4.83,2.53,1.11,1.19,1.89,3.04,14.58,0.425,0.378,0.694,Clifford,Robinson,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+283,78,2981,2001,29:32,4.37,8.62,0.0,0.0,3.45,5.06,2.45,5.85,8.29,1.21,1.1,1.79,1.33,2.47,12.19,0.507,0.0,0.681,David,Robinson,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+284,2,623,2001,5:00,0.5,2.0,0.5,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.5,1.5,0.25,0.5,0.0,Larry,Robinson,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+285,22,911,2001,7:38,1.09,1.95,0.05,0.27,0.45,0.86,0.64,1.09,1.73,0.14,0.23,0.27,0.23,0.77,2.68,0.558,0.167,0.526,Carlos,Rogers,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+286,76,1156,2001,29:47,4.82,9.64,0.04,0.09,3.91,5.04,3.32,4.86,8.17,2.0,1.0,0.54,1.51,3.21,13.58,0.499,0.429,0.775,Brad,Miller,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+287,40,935,2001,5:52,0.75,2.08,0.0,0.0,0.08,0.2,0.6,0.85,1.45,0.25,0.18,0.2,0.35,0.83,1.58,0.361,0.0,0.375,Cherokee,Parks,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+288,77,806,2001,24:24,4.62,9.82,1.14,3.05,1.52,1.94,1.68,2.84,4.52,1.45,0.86,0.38,1.4,2.94,11.91,0.471,0.374,0.785,Rodney,Rogers,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+289,83,874,2001,38:01,7.99,17.57,1.07,2.96,3.39,4.04,0.52,3.98,4.49,4.28,0.94,0.54,2.42,3.02,20.43,0.455,0.362,0.839,Jalen,Rose,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+290,82,1049,2001,21:01,3.57,7.72,0.01,0.15,2.26,3.13,2.1,3.9,6.0,0.74,0.85,0.51,1.71,2.54,9.41,0.463,0.083,0.72,Malik,Rose,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+291,18,774,2001,7:14,0.78,2.44,0.39,1.5,0.22,0.39,0.06,0.61,0.67,0.72,0.17,0.06,0.67,0.56,2.17,0.318,0.259,0.571,Doug,Overton,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+292,3,1305,2001,8:00,1.33,2.67,0.0,0.0,0.0,0.0,0.0,2.33,2.33,0.67,0.0,0.33,0.67,1.33,2.67,0.5,0.0,0.0,Daniel,Santiago,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+293,6,1396,2001,5:50,0.5,2.33,0.0,0.0,0.67,0.83,0.5,0.67,1.17,0.33,0.5,0.0,0.33,0.5,1.67,0.214,0.0,0.8,Jeryl,Sasser,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+294,36,1390,2001,15:37,2.03,5.53,0.19,0.75,1.0,1.28,0.47,0.97,1.44,3.0,0.86,0.03,1.47,1.19,5.25,0.367,0.259,0.783,Kenny,Satterfield,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+295,28,1399,2001,10:24,0.82,2.39,0.11,0.36,0.39,0.54,0.43,1.39,1.82,0.75,0.32,0.07,0.86,1.39,2.14,0.343,0.3,0.733,Brian,Scalabrine,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+296,61,540,2001,22:32,3.18,6.85,0.0,0.03,0.77,1.38,1.61,4.39,6.0,1.08,1.21,1.48,1.61,2.41,7.13,0.464,0.0,0.56,Hakeem,Olajuwon,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+297,29,1239,2001,22:24,3.86,8.52,0.07,0.17,1.24,1.66,0.83,1.86,2.69,1.28,0.79,0.38,1.24,1.21,9.03,0.453,0.4,0.75,Eddie,Robinson,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+298,21,1073,2001,12:00,1.76,3.57,0.0,0.0,0.38,0.95,2.52,2.38,4.9,0.38,0.14,0.29,0.71,2.33,3.9,0.493,0.0,0.4,Shawnelle,Scott,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+299,9,1404,2001,15:46,2.44,4.89,0.0,0.0,1.56,2.22,0.78,1.44,2.22,0.89,0.33,0.22,0.22,2.0,6.44,0.5,0.0,0.7,Ansu,Sesay,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+300,61,1341,2001,20:12,2.39,5.8,1.08,2.57,0.8,1.18,0.74,3.03,3.77,1.33,0.92,0.39,1.18,1.95,6.67,0.412,0.42,0.681,Vladimir,Radmanovic,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+301,57,2857,2001,11:04,1.07,3.04,0.51,1.54,0.32,0.42,0.33,1.63,1.96,1.56,0.44,0.05,0.56,0.75,2.96,0.353,0.33,0.75,Brian,Shaw,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+302,1,882,2001,3:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Dickey,Simpkins,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+303,60,1128,2001,19:01,3.03,7.13,0.58,2.18,0.7,1.08,0.57,1.65,2.22,1.33,0.87,0.73,0.98,1.9,7.35,0.425,0.267,0.646,Charles,Smith,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+304,22,1329,2001,8:16,1.18,2.86,0.0,0.14,0.95,1.45,0.36,0.91,1.27,0.5,0.27,0.27,0.23,1.41,3.32,0.413,0.0,0.656,Jabari,Smith,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+305,61,758,2001,11:56,1.33,3.18,0.0,0.0,0.34,0.48,0.52,1.51,2.03,0.41,0.2,0.34,0.33,1.87,3.0,0.418,0.0,0.724,Sean,Rooks,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+306,61,944,2001,36:28,4.52,10.23,0.05,0.44,3.0,3.72,0.54,2.98,3.52,6.56,1.56,0.15,2.26,2.74,12.1,0.442,0.111,0.806,Eric,Snow,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+307,59,1379,2001,14:55,1.92,5.61,0.78,2.75,0.83,1.24,0.2,0.95,1.15,1.56,0.59,0.12,1.05,1.29,5.44,0.341,0.284,0.671,Will,Solomon,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+308,81,750,2001,41:03,7.07,17.52,1.79,4.98,3.51,4.27,0.73,2.95,3.68,3.86,1.16,0.17,2.75,1.99,19.44,0.404,0.36,0.821,Latrell,Sprewell,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+309,66,3049,2001,14:06,1.73,4.7,0.44,1.44,0.5,0.62,0.23,0.8,1.03,1.06,0.5,0.0,0.79,1.91,4.39,0.368,0.305,0.805,John,Starks,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+310,67,1151,2001,13:12,1.75,3.72,0.01,0.03,0.75,1.55,1.49,2.54,4.03,0.24,0.36,0.66,0.78,1.54,4.25,0.47,0.5,0.481,Vladimir,Stepania,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+311,67,1298,2001,16:52,2.13,5.54,0.03,0.37,0.55,0.79,0.66,1.3,1.96,1.73,0.43,0.36,1.01,1.22,4.85,0.385,0.08,0.698,DeShawn,Stevenson,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+312,10,1120,2001,9:12,0.8,2.3,0.0,0.0,0.6,1.1,1.2,1.3,2.5,0.3,0.4,0.3,0.4,2.2,2.2,0.348,0.0,0.545,Michael,Stewart,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+313,82,2871,2001,31:20,4.89,9.45,0.3,0.95,3.35,3.91,0.72,2.49,3.21,8.22,1.85,0.29,2.54,2.55,13.44,0.517,0.321,0.857,John,Stockton,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+314,71,1162,2001,37:18,7.7,15.92,1.82,4.37,3.99,4.55,1.01,4.24,5.25,2.46,1.14,0.2,1.97,1.69,21.21,0.484,0.416,0.876,Peja,Stojakovic,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+315,75,960,2001,37:14,4.92,12.24,1.39,3.93,2.32,2.61,1.04,2.85,3.89,6.53,0.89,0.09,1.99,2.04,13.55,0.402,0.353,0.888,Damon,Stoudamire,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+316,78,1025,2001,21:01,2.44,6.26,1.22,3.17,1.68,1.99,0.28,2.45,2.73,2.36,0.72,0.01,1.21,1.86,7.77,0.389,0.385,0.845,Erick,Strickland,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+317,46,931,2001,14:13,1.98,4.43,0.02,0.09,0.54,0.96,0.89,1.96,2.85,0.43,0.41,0.37,0.61,1.04,4.52,0.446,0.25,0.568,Mark,Strickland,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+318,76,3022,2001,30:12,4.16,9.39,0.11,0.34,2.03,2.64,0.64,2.41,3.05,6.09,1.08,0.14,2.09,1.5,10.45,0.443,0.308,0.766,Rod,Strickland,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+319,3,1318,2001,4:00,0.33,0.67,0.0,0.0,1.0,1.33,0.0,0.67,0.67,0.67,0.67,0.0,0.0,0.0,1.67,0.5,0.0,0.75,Mike,Penberthy,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+320,19,1210,2001,4:28,0.84,2.0,0.0,0.05,0.0,0.11,0.32,0.68,1.0,0.16,0.16,0.16,0.21,0.84,1.68,0.421,0.0,0.0,Bruno,Sundov,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+321,78,966,2001,22:50,3.21,7.56,0.54,1.71,3.03,4.21,1.14,2.14,3.28,3.53,1.13,0.22,1.71,2.05,9.97,0.424,0.316,0.72,Bob,Sura,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+322,68,1285,2001,26:36,4.31,8.99,0.0,0.04,3.19,4.49,2.37,3.96,6.32,0.74,0.78,1.66,1.79,2.62,11.81,0.48,0.0,0.711,Stromile,Swift,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+323,82,1251,2001,38:03,7.43,14.63,1.06,2.33,2.76,3.32,1.46,3.3,4.77,3.13,0.8,0.26,2.21,2.29,18.67,0.508,0.455,0.831,Wally,Szczerbiak,F,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+324,3,964,2001,27:20,3.33,6.67,0.0,0.0,2.0,3.67,1.67,3.67,5.33,0.33,0.33,2.67,2.33,2.67,8.67,0.5,0.0,0.545,Theo,Ratliff,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+325,76,946,2001,35:20,6.89,17.36,1.13,3.95,6.51,7.59,1.01,3.13,4.14,5.3,1.01,0.49,3.5,2.14,21.43,0.397,0.287,0.858,Jerry,Stackhouse,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+326,47,1370,2001,13:08,1.72,3.21,0.0,0.0,0.87,1.57,1.17,2.68,3.85,0.13,0.36,0.74,0.55,1.62,4.32,0.536,0.0,0.554,Etan,Thomas,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+327,72,1233,2001,34:28,5.5,11.51,0.0,0.22,3.1,4.67,2.19,4.97,7.17,1.9,1.18,0.92,1.99,2.71,14.1,0.478,0.0,0.664,Kenny,Thomas,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+328,82,978,2001,33:48,5.65,11.44,0.01,0.07,2.63,3.23,2.61,6.5,9.11,1.06,0.87,0.96,1.87,4.16,13.94,0.494,0.167,0.815,Kurt,Thomas,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+329,74,1116,2001,26:54,4.27,10.18,1.28,3.93,1.92,2.42,0.86,3.19,4.05,1.42,0.88,0.43,1.72,2.7,11.74,0.42,0.326,0.793,Tim,Thomas,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+330,80,1344,2001,30:33,3.61,9.5,0.53,2.19,1.64,2.33,0.98,2.75,3.73,8.09,1.73,0.5,3.38,3.1,9.39,0.38,0.24,0.704,Jamaal,Tinsley,G,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+331,64,1359,2001,16:43,2.11,5.33,0.58,1.97,1.28,1.64,0.73,1.17,1.91,0.63,0.39,0.14,0.77,1.0,6.08,0.396,0.294,0.781,Oscar,Torres,,,,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+332,61,1196,2001,11:10,1.43,3.34,0.02,0.02,0.87,1.38,1.1,1.97,3.07,0.61,0.39,0.61,0.74,2.08,3.74,0.426,1.0,0.631,Robert,Traylor,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+333,11,1382,2001,6:52,0.64,2.09,0.0,0.09,0.36,0.64,0.27,0.82,1.09,1.09,0.73,0.36,1.0,0.73,1.64,0.304,0.0,0.571,Jeff,Trepagnier,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+334,67,1308,2001,23:34,2.84,5.97,0.0,0.01,1.66,2.37,1.94,3.64,5.58,0.34,0.34,1.03,1.16,2.88,7.33,0.475,0.0,0.698,Jake,Tsakalidis,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+335,80,1290,2001,24:34,3.63,8.59,0.79,2.14,2.09,2.88,0.79,3.75,4.54,2.04,0.71,0.39,1.01,2.3,10.13,0.422,0.368,0.726,Hedo,Turkoglu,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+336,14,1254,2001,7:08,0.71,1.86,0.0,0.0,0.79,1.21,0.71,1.5,2.21,0.21,0.36,0.07,0.21,0.86,2.21,0.385,0.0,0.647,Leon,Smith,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+337,72,812,2001,34:41,6.96,17.03,1.65,4.86,2.79,3.49,0.39,3.14,3.53,6.64,0.61,0.15,2.17,1.44,18.36,0.409,0.34,0.801,Nick,Van Exel,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+338,1,1400,2001,6:00,2.0,3.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,5.0,0.667,0.0,1.0,Ratko,Varda,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+339,82,1112,2001,22:35,2.51,5.34,0.29,0.66,1.27,1.54,0.22,1.83,2.05,4.26,0.79,0.02,1.37,2.23,6.59,0.47,0.444,0.825,Jacque,Vaughn,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+340,59,1317,2001,15:14,1.81,3.27,0.0,0.0,1.39,1.85,1.75,2.49,4.24,0.31,0.19,0.39,0.81,2.36,5.02,0.554,0.0,0.752,Jake,Voskuhl,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+341,14,1248,2001,12:04,0.5,1.86,0.0,0.0,0.14,0.57,1.64,2.0,3.64,0.36,0.36,0.57,0.79,1.64,1.14,0.269,0.0,0.25,Michael,Ruffin,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+342,81,1009,2001,42:04,8.22,20.85,2.74,7.96,2.96,4.0,1.85,6.96,8.81,5.02,1.51,0.47,3.1,2.93,22.15,0.394,0.344,0.741,Antoine,Walker,F,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+343,69,1054,2001,24:00,2.71,5.29,0.0,0.0,1.25,1.87,1.87,5.1,6.97,0.93,0.41,1.28,0.77,2.46,6.67,0.512,0.0,0.667,Samaki,Walker,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+344,80,1020,2001,36:32,3.19,6.0,0.0,0.04,1.24,2.93,3.98,9.01,12.99,1.44,1.73,3.48,0.88,2.23,7.61,0.531,0.0,0.423,Ben,Wallace,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+345,54,1343,2001,7:59,1.39,3.24,0.0,0.13,0.43,0.85,0.91,0.74,1.65,0.5,0.35,0.11,0.41,0.85,3.2,0.429,0.0,0.5,Gerald,Wallace,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+346,46,1014,2001,10:37,2.02,4.65,0.11,0.28,0.87,1.0,0.59,1.26,1.85,0.63,0.24,0.2,0.63,1.3,5.02,0.435,0.385,0.87,John,Wallace,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+347,79,948,2001,37:32,7.63,16.29,1.44,4.01,2.54,3.47,1.72,6.44,8.16,1.92,1.28,1.28,1.66,2.68,19.25,0.469,0.36,0.734,Rasheed,Wallace,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+348,63,918,2001,16:45,1.79,4.81,0.84,2.6,0.75,0.92,0.24,1.78,2.02,3.22,1.08,0.22,1.19,1.59,5.17,0.373,0.323,0.81,Charlie,Ward,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+349,63,1342,2001,15:19,1.52,3.37,0.25,0.7,0.37,0.57,0.49,0.83,1.32,1.98,0.95,0.08,0.81,1.48,3.67,0.453,0.364,0.639,Earl,Watson,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+350,56,737,2001,30:50,3.38,8.07,0.0,0.0,2.07,2.61,2.66,5.55,8.21,1.07,0.66,0.86,0.84,2.36,8.82,0.418,0.0,0.795,Clar.,Weatherspoon,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+351,54,847,2001,38:21,9.85,19.91,0.09,0.35,4.69,6.26,2.78,7.33,10.11,4.78,1.67,1.41,2.93,3.35,24.48,0.495,0.263,0.749,Chris,Webber,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+352,26,1369,2001,13:02,1.65,3.65,0.15,0.54,0.85,1.15,0.96,1.04,2.0,0.65,0.5,0.19,0.54,1.19,4.31,0.453,0.286,0.733,Bobby,Simmons,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+353,74,1202,2001,31:46,6.58,14.04,0.89,2.32,2.91,3.92,1.64,4.36,6.0,2.76,1.53,0.34,2.58,2.81,16.96,0.469,0.384,0.741,Bonzi,Wells,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+354,67,857,2001,37:10,5.43,13.58,1.27,3.82,2.06,2.81,0.66,1.48,2.13,3.52,1.1,0.22,1.78,2.19,14.19,0.4,0.332,0.734,David,Wesley,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+355,71,1170,2001,18:57,2.11,3.93,0.0,0.0,1.17,2.17,2.24,4.01,6.25,0.24,0.35,1.06,0.92,2.3,5.39,0.538,0.0,0.539,Jahidi,White,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+356,16,1363,2001,8:00,1.31,3.75,0.13,0.56,0.75,0.88,0.13,1.0,1.13,0.75,0.56,0.13,0.88,0.38,3.5,0.35,0.222,0.857,Rodney,White,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+357,82,801,2001,26:28,3.34,8.0,1.6,3.94,1.88,2.13,0.13,1.72,1.85,3.83,0.88,0.07,1.04,2.22,10.16,0.418,0.406,0.88,Chris,Whitney,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+358,82,855,2001,18:52,2.82,5.35,0.0,0.02,1.59,2.27,1.4,2.73,4.13,0.94,0.35,0.93,0.96,2.59,7.22,0.526,0.0,0.699,Aaron,Williams,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+359,82,1100,2001,35:46,4.91,11.84,0.76,2.35,1.26,1.71,0.71,2.72,3.43,5.71,1.65,0.32,1.83,2.33,11.84,0.415,0.321,0.736,Alvin,Williams,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+360,74,938,2001,23:39,1.95,5.2,0.32,1.16,2.16,2.96,0.78,2.2,2.99,1.47,1.04,0.11,1.28,2.42,6.38,0.374,0.279,0.731,Eric,Williams,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+361,65,1161,2001,34:25,5.78,15.15,1.95,6.62,1.23,1.55,0.34,2.66,3.0,7.98,1.71,0.11,3.29,1.57,14.75,0.382,0.295,0.792,Jason,Williams,G,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+362,68,1013,2001,24:05,2.79,5.71,0.0,0.0,2.03,3.0,2.43,3.25,5.68,1.1,1.15,0.37,1.0,2.25,7.62,0.49,0.0,0.676,Jerome,Williams,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+363,68,910,2001,18:53,2.91,5.32,0.0,0.06,1.29,1.97,1.18,2.28,3.46,1.41,0.72,0.25,1.26,1.97,7.12,0.547,0.0,0.657,Monty,Williams,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+364,41,2932,2001,17:58,2.1,5.29,0.0,0.05,0.73,1.0,2.0,3.1,5.1,0.32,0.41,0.8,0.85,2.39,4.93,0.396,0.0,0.732,Scott,Williams,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+365,49,1173,2001,12:15,1.65,3.94,0.57,1.53,0.63,0.8,0.33,0.96,1.29,1.69,0.43,0.04,0.71,0.71,4.51,0.42,0.373,0.795,Shammond,Williams,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+366,77,675,2001,28:45,4.03,8.86,1.51,3.19,2.06,2.35,0.58,1.92,2.51,1.96,0.7,0.19,1.4,2.05,11.62,0.455,0.472,0.878,Steven,Smith,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+367,48,732,2001,23:18,3.46,8.25,1.63,3.81,0.83,1.06,0.77,2.6,3.38,1.44,0.38,0.21,1.1,2.21,9.38,0.419,0.426,0.784,Walt,Williams,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+368,78,990,2001,21:50,5.27,10.33,0.01,0.06,3.08,3.82,1.5,2.59,4.09,1.21,0.63,0.33,1.76,2.9,13.63,0.51,0.2,0.805,Corliss,Williamson,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+369,52,579,2001,16:39,2.4,5.46,0.0,0.02,1.25,1.67,2.02,3.73,5.75,0.27,0.48,0.44,0.79,1.88,6.06,0.44,0.0,0.747,Kevin,Willis,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+370,73,1227,2001,30:42,3.79,10.08,0.92,3.25,2.21,2.78,1.49,4.38,5.88,2.47,1.56,0.53,1.74,3.07,10.71,0.376,0.283,0.793,James,Posey,F,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+371,23,1278,2001,7:43,1.22,3.65,0.26,1.13,1.35,1.78,0.09,0.61,0.7,0.22,0.26,0.0,0.48,0.3,4.04,0.333,0.231,0.756,Lavor,Postell,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+372,59,1357,2001,8:43,0.56,1.63,0.0,0.03,0.75,1.02,0.78,1.29,2.07,0.37,0.29,0.58,0.61,1.02,1.86,0.344,0.0,0.733,Loren,Woods,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+373,55,1249,2001,29:49,4.89,11.56,0.96,3.09,2.47,3.71,1.33,3.6,4.93,2.31,2.56,0.71,2.15,3.95,13.22,0.423,0.312,0.667,Metta,World Peace,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+374,43,1033,2001,29:09,5.19,11.3,0.0,0.05,1.63,2.86,3.02,6.4,9.42,1.02,0.7,0.53,1.67,2.93,12.0,0.459,0.0,0.569,Lorenzen,Wright,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+375,55,1244,2001,21:02,3.49,8.29,0.55,1.65,1.42,1.87,0.65,2.42,3.07,1.53,0.82,0.25,1.38,1.62,8.95,0.421,0.33,0.757,Dion,Glover,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+376,50,2863,2001,15:57,1.52,3.54,0.86,1.98,0.68,0.72,0.3,1.5,1.8,0.96,0.32,0.18,0.44,1.4,4.58,0.429,0.434,0.944,Danny,Ferry,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+377,70,1041,2001,28:13,3.91,9.51,2.06,4.99,1.34,1.59,0.21,1.87,2.09,2.59,0.94,0.13,0.89,1.73,11.23,0.411,0.413,0.847,Derek,Fisher,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+378,56,1123,2001,12:53,2.05,4.38,0.0,0.05,0.61,1.0,1.36,2.18,3.54,0.57,0.2,0.32,0.59,1.16,4.71,0.469,0.0,0.607,Lawrence,Funderburke,,,,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+379,39,878,2001,15:40,1.51,4.49,0.36,1.49,1.0,1.26,0.23,1.03,1.26,2.56,0.62,0.08,1.36,1.41,4.38,0.337,0.241,0.796,Howard,Eisley,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+380,65,2964,2001,13:51,2.28,5.12,0.0,0.02,1.45,2.06,0.92,3.12,4.05,0.54,0.34,0.69,1.0,1.98,6.0,0.444,0.0,0.701,Patrick,Ewing,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+381,50,757,2001,24:36,2.92,6.52,1.14,2.52,0.32,0.42,0.14,1.4,1.54,2.14,0.56,0.06,0.88,1.16,7.3,0.448,0.452,0.762,Hubert,Davis,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+382,14,1296,2001,11:04,1.57,4.07,0.29,1.0,0.71,0.86,0.0,0.21,0.21,0.86,0.29,0.21,0.71,1.43,4.14,0.386,0.286,0.833,Keyon,Dooling,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+383,82,1089,2001,40:37,9.32,18.34,0.01,0.12,6.83,8.55,3.27,9.44,12.71,3.74,0.74,2.48,3.21,2.65,25.48,0.508,0.1,0.799,Tim,Duncan,F,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+384,7,1106,2001,18:42,3.0,6.43,0.0,0.14,1.57,2.14,1.29,2.29,3.57,0.71,0.29,0.71,1.43,3.0,7.57,0.467,0.0,0.733,Chris,Crawford,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+385,23,111,2001,20:54,3.87,8.13,1.13,2.52,0.43,0.57,0.22,1.26,1.48,2.39,0.78,0.22,1.39,0.78,9.3,0.476,0.448,0.769,Jamal,Crawford,G,6.0,5.0,185.0,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+386,51,1234,2001,9:39,1.53,3.65,0.24,0.88,0.47,0.63,0.27,0.73,1.0,1.16,0.35,0.1,0.71,1.02,3.76,0.419,0.267,0.75,Vonteego,Cummings,G,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+387,47,577,2001,14:41,1.19,3.11,0.09,0.43,0.7,0.79,0.26,0.91,1.17,2.28,0.28,0.09,0.66,1.26,3.17,0.384,0.2,0.892,Bimbo,Coles,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+388,24,1304,2001,15:12,1.71,3.96,0.0,0.04,1.0,1.33,1.29,2.13,3.42,0.38,0.25,0.17,0.54,1.67,4.42,0.432,0.0,0.75,Jason,Collier,,,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+389,70,1385,2001,20:38,2.26,4.9,0.0,0.01,1.91,2.59,1.97,2.26,4.23,0.83,0.41,0.31,0.8,3.34,6.43,0.461,0.0,0.74,Jarron,Collins,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+390,77,1348,2001,18:15,1.52,3.61,0.01,0.03,1.49,2.13,1.71,2.19,3.91,1.05,0.38,0.61,0.94,2.25,4.55,0.421,0.5,0.701,Jason,Collins,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+391,29,1016,2001,34:44,4.48,10.0,0.0,0.03,2.14,3.41,3.07,8.03,11.1,1.14,1.17,1.72,1.45,3.69,11.1,0.448,0.0,0.626,Marcus,Camby,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+392,77,2991,2001,28:01,4.99,10.31,0.0,0.03,3.97,4.99,1.73,5.16,6.88,1.32,0.78,1.78,1.79,3.43,13.95,0.484,0.0,0.797,Elden,Campbell,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+393,71,1286,2001,15:55,1.07,2.0,0.0,0.01,0.54,1.27,1.1,2.89,3.99,0.3,0.28,1.66,0.61,2.8,2.68,0.535,0.0,0.422,Joel,Przybilla,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+394,21,1345,2001,7:34,0.67,1.38,0.0,0.0,0.71,1.19,0.76,0.57,1.33,0.29,0.0,0.33,0.29,1.33,2.05,0.483,0.0,0.6,Primoz,Brezec,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+395,32,1271,2001,9:20,1.28,3.75,0.03,0.34,0.56,0.75,0.44,1.31,1.75,1.09,0.31,0.13,0.5,0.41,3.16,0.342,0.091,0.75,Derrick,Dial,,,,,27,SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+396,4,1181,2001,31:27,3.75,12.0,2.0,5.25,1.25,1.5,0.75,2.25,3.0,2.25,0.75,0.25,2.0,3.0,10.75,0.313,0.381,0.833,Michael,Dickerson,G,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+397,18,1367,2001,6:03,0.67,1.61,0.0,0.0,0.06,0.28,0.28,0.67,0.94,0.28,0.06,0.56,0.67,1.06,1.39,0.414,0.0,0.2,DeSagana,Diop,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+398,80,2998,2001,30:14,4.23,8.95,0.04,0.16,2.61,4.25,2.56,5.83,8.39,3.71,0.99,1.18,1.98,2.86,11.1,0.472,0.231,0.615,Vlade,Divac,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+399,11,1398,2001,6:11,0.91,2.36,0.36,0.73,0.55,0.82,0.27,0.45,0.73,0.18,0.0,0.0,0.27,0.45,2.73,0.385,0.5,0.667,Norman,Richardson,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+400,66,907,2001,35:34,8.12,17.38,0.88,2.7,3.58,4.27,1.06,5.09,6.15,2.55,1.47,0.62,2.64,2.62,20.7,0.467,0.326,0.837,Glenn,Robinson,,,,,17,MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+401,65,1206,2001,17:01,1.35,2.49,0.0,0.0,0.74,1.22,1.43,2.89,4.32,0.26,0.37,0.94,0.65,2.0,3.45,0.543,0.0,0.608,Brian,Skinner,,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+402,72,957,2001,26:44,4.13,8.07,0.03,0.04,2.38,2.86,2.11,4.18,6.29,1.14,0.54,0.82,1.19,3.47,10.65,0.511,0.667,0.83,Joe,Smith,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+403,78,1242,2001,38:02,6.72,15.63,2.21,5.69,3.64,4.36,0.51,2.95,3.46,5.69,1.85,0.17,2.32,2.0,19.28,0.43,0.387,0.835,Jason,Terry,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+404,66,823,2001,30:17,3.36,8.85,1.17,3.42,1.74,2.12,1.2,3.27,4.47,2.06,0.97,0.29,1.67,3.11,9.64,0.38,0.341,0.821,Bryon,Russell,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+405,8,875,2001,5:52,0.88,1.88,0.0,0.0,0.88,1.25,0.63,0.5,1.13,0.13,0.13,0.13,0.13,0.38,2.63,0.467,0.0,0.7,Reggie,Slater,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+406,32,616,2001,7:54,0.19,0.81,0.0,0.0,0.53,1.03,0.5,1.06,1.56,0.09,0.22,0.25,0.38,2.28,0.91,0.231,0.0,0.515,Felton,Spencer,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+407,50,751,2001,13:20,1.4,3.76,0.48,1.36,0.88,1.04,0.4,1.3,1.7,0.84,0.58,0.12,0.6,0.84,4.16,0.372,0.353,0.846,Bryant,Stith,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+408,64,950,2001,17:49,3.02,5.95,0.0,0.03,1.44,2.25,1.63,2.59,4.22,0.94,0.33,0.42,0.91,2.5,7.47,0.507,0.0,0.639,Gary,Trent,,,,,18,MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+409,81,1119,2001,30:23,5.81,13.44,1.25,3.62,1.93,2.41,1.69,5.83,7.52,2.02,0.78,0.52,1.8,2.73,14.8,0.433,0.345,0.8,Keith,Van Horn,,,,,3,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+410,72,892,2001,31:20,3.97,8.47,0.0,0.03,1.4,1.65,2.33,5.65,7.99,1.9,0.67,0.43,1.69,3.28,9.35,0.469,0.0,0.849,Brian,Grant,,,,,16,MIA,Miami,East,Southeast,Miami Heat,Heat
+411,76,2929,2001,29:04,3.47,6.78,0.0,0.0,1.05,1.46,2.09,4.24,6.33,1.37,0.75,0.64,0.67,1.55,8.0,0.513,0.0,0.721,Horace,Grant,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+412,80,1176,2001,30:03,4.09,9.59,2.11,4.95,0.76,0.91,0.96,3.26,4.23,1.24,0.76,0.35,0.85,2.88,11.05,0.426,0.427,0.836,Pat,Garrity,,,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic
+413,9,1335,2001,5:33,0.22,1.11,0.0,0.0,0.11,0.22,0.11,0.44,0.56,0.56,0.11,0.22,0.33,1.11,0.56,0.2,0.0,0.5,Steve,Goodrich,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+414,76,1292,2001,25:49,4.88,11.16,0.09,0.54,2.49,3.72,1.68,3.93,5.62,1.58,0.64,0.32,1.72,2.45,12.34,0.438,0.171,0.668,Marcus,Fizer,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+415,52,1353,2001,8:40,1.17,2.27,0.0,0.0,0.81,1.1,0.62,1.44,2.06,0.13,0.12,0.13,0.62,1.9,3.15,0.517,0.0,0.737,Alton,Ford,,,,,24,PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+416,77,1092,2001,28:46,4.01,9.38,0.01,0.05,3.18,4.0,3.77,7.91,11.68,1.65,0.57,0.22,2.08,3.31,11.22,0.428,0.25,0.795,Danny,Fortson,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+417,6,509,2001,4:08,0.33,1.5,0.0,0.67,0.5,0.67,0.0,1.33,1.33,0.17,0.0,0.0,0.0,0.67,1.17,0.222,0.0,0.75,Greg,Foster,,,,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+418,82,1241,2001,21:47,2.16,4.8,0.02,0.18,1.35,2.22,2.51,4.27,6.78,0.85,0.87,0.46,0.96,2.83,5.7,0.449,0.133,0.61,Jeff,Foster,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+419,8,1365,2001,4:50,0.13,1.5,0.0,0.38,0.5,0.5,0.13,0.63,0.75,0.75,0.25,0.0,0.38,0.13,0.75,0.083,0.0,1.0,Joseph,Forte,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+420,76,1132,2001,16:55,2.43,5.89,0.64,1.91,1.28,1.5,0.97,2.89,3.87,1.01,0.34,0.38,0.88,1.39,6.79,0.413,0.338,0.851,Austin,Croshere,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+421,31,1393,2001,5:38,0.71,1.61,0.0,0.0,0.23,0.58,0.81,1.35,2.16,0.16,0.19,0.42,0.45,0.97,1.65,0.44,0.0,0.389,Samuel,Dalembert,,,,,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+422,73,1012,2001,23:49,2.86,6.58,0.0,0.0,1.86,2.89,2.29,3.01,5.3,1.19,0.23,2.29,2.14,3.22,7.59,0.435,0.0,0.645,Erick,Dampier,,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+423,82,1237,2001,40:28,6.82,16.35,2.07,5.83,2.39,4.12,1.13,3.12,4.26,8.51,2.1,0.57,3.0,2.94,18.1,0.417,0.356,0.58,Baron,Davis,,,,,4,CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+424,68,820,2001,24:01,3.29,6.85,0.0,0.06,0.68,0.99,0.84,2.69,3.53,1.62,0.5,0.31,1.03,2.29,7.26,0.481,0.0,0.687,Calbert,Cheaney,,,,,30,WAS,Washington,East,Southeast,Washington Wizards,Wizards
+425,69,926,2001,22:50,1.41,4.29,0.48,1.74,0.84,1.03,0.26,1.97,2.23,5.09,0.81,0.07,1.78,2.57,4.13,0.328,0.275,0.817,Chris,Childs,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+426,67,1355,2001,22:48,2.7,6.75,0.06,0.49,1.7,2.03,0.69,1.7,2.39,2.96,1.42,0.09,1.42,2.16,7.16,0.4,0.121,0.838,Speedy,Claxton,G,,,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+427,32,1302,2001,4:48,0.94,2.13,0.06,0.25,0.25,0.28,0.03,0.22,0.25,0.78,0.22,0.0,0.84,0.28,2.19,0.441,0.25,0.889,Mateen,Cleaves,,,,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+428,38,1360,2001,10:30,1.29,3.03,0.11,0.32,0.55,0.74,0.32,0.79,1.11,1.84,0.5,0.08,1.05,0.68,3.24,0.426,0.333,0.75,Tierre,Brown,,,,,14,LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+429,27,2965,2001,7:26,0.93,2.04,0.0,0.0,0.22,0.3,0.93,0.7,1.63,0.37,0.26,0.07,0.22,1.41,2.07,0.455,0.0,0.75,Mark,Bryant,,,,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+430,44,1267,2001,20:08,2.36,4.5,0.11,0.36,0.91,1.32,1.52,2.41,3.93,1.09,0.7,0.43,0.61,2.82,5.75,0.525,0.313,0.69,Greg,Buckner,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+431,63,2898,2001,10:48,0.7,1.87,0.33,0.95,0.03,0.06,0.46,1.38,1.84,0.51,0.33,0.13,0.24,0.84,1.76,0.373,0.35,0.5,Jud,Buechler,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+432,72,815,2001,19:55,1.6,3.49,0.0,0.01,0.4,0.63,2.07,3.04,5.11,0.61,0.68,0.36,0.72,2.44,3.6,0.458,0.0,0.644,Corie,Blount,,,,,5,CHI,Chicago,East,Central,Chicago Bulls,Bulls
+433,68,1197,2001,11:14,1.62,4.04,0.19,0.62,0.69,0.9,0.4,0.4,0.79,2.13,0.29,0.03,0.65,0.65,4.12,0.4,0.31,0.77,Earl,Boykins,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+434,26,1350,2001,4:34,0.5,0.96,0.0,0.08,0.15,0.31,0.27,0.65,0.92,0.12,0.0,0.23,0.23,0.38,1.15,0.52,0.0,0.5,Michael,Bradley,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+435,53,818,2001,14:14,1.47,3.08,0.0,0.02,1.11,1.21,1.0,2.32,3.32,0.38,0.53,1.21,0.47,2.42,4.06,0.479,0.0,0.922,Shawn,Bradley,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+436,80,1247,2001,37:45,6.65,12.63,0.0,0.0,4.86,6.55,4.95,6.61,11.56,2.39,1.0,2.04,2.16,3.18,18.16,0.527,0.0,0.742,Elton,Brand,F,,,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+437,32,649,2001,30:09,4.84,11.41,0.13,0.72,2.59,2.63,0.53,2.38,2.91,8.25,1.63,0.19,1.34,1.53,12.41,0.425,0.174,0.988,Terrell,Brandon,,,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+438,66,752,2001,25:31,2.86,6.85,0.58,1.88,0.8,1.27,1.62,2.73,4.35,0.85,0.45,0.56,1.11,2.97,7.11,0.418,0.306,0.631,LaPhonso,Ellis,,,,,8,DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+439,55,1337,2001,10:51,1.98,4.51,0.87,2.11,0.76,1.04,0.35,1.67,2.02,0.4,0.2,0.33,0.45,1.53,5.6,0.44,0.414,0.737,Wang,Zhi-zhi,,,,,7,DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
