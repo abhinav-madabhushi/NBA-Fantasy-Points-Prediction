@@ -1,2 +1,2 @@
 - Main file with final data transformation and model fitting: Gradient_Boosting_Player_Stats.ipynb
-- Research paper: Modeling_Techniques_to_Forecast_NBA_Player_Fantasy_Points.pdf
+- Research paper: In the folder RESEARCH PAPER. 
